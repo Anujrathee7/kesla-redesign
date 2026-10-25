@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Ajankohtaista",
+    "description": "Keslan uutiset järjestettynä sen mukaan, mitä koneen ostaja niistä tarvitsee: ensin uudet koneet, sitten messut, jälleenmyyjä-, varaosa- ja huoltotiedotteet, yhtiö- ja sijoittajatiedotteet ja viimeisenä avoimet työpaikat."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu",
+    "news": "Ajankohtaista"
+  },
+  "title": "Ajankohtaista",
+  "headImageAlt": "KESLA 19RH III twinAX -harvesterikoura kuusimetsässä",
+  "filter": {
+    "label": "Aihe",
+    "everything": "Kaikki",
+    "status": "{count, plural, one {Näytetään # uutinen} other {Näytetään # uutista}}: {topic}",
+    "statusAll": "Näytetään kaikki {count} uutista"
+  },
+  "topics": {
+    "machines": {
+      "title": "Koneet ja uutuudet"
+    },
+    "fairs": {
+      "title": "Tapahtumat"
+    },
+    "service": {
+      "title": "Jälleenmyyjät, varaosat ja huolto"
+    },
+    "company": {
+      "title": "Yhtiö ja sijoittajat"
+    },
+    "careers": {
+      "title": "Ura Keslalla"
+    }
+  },
+  "all": "Kaikki {count}",
+  "allLabel": "{topic}: näytä kaikki {count}",
+  "kind": {
+    "news": "Uutinen",
+    "press": "Lehdistötiedote",
+    "event": "Tapahtuma"
+  },
+  "otherLanguage": "Englanniksi",
+  "readMore": "Lue lisää",
+  "stand": "{count, plural, one {osasto {stand}} other {osastot {stand}}}",
+  "fairStatus": {
+    "now": "Käynnissä",
+    "lastDay": "Tänään viimeinen päivä",
+    "next": "{days, plural, one {Alkaa huomenna} other {Alkaa # päivän päästä}}",
+    "ended": "{days, plural, one {Päättyi eilen} other {Päättyi # päivää sitten}}"
+  },
+  "article": {
+    "crumb": "Lehdistötiedotteet",
+    "seeCranes": "Katso metsäkonenosturit",
+    "findDealer": "Löydä jälleenmyyjä",
+    "glanceTitle": "Lyhyesti",
+    "modelsTitle": "F-sarjan mallit",
+    "allCranes": "Kaikki metsäkonenosturit",
+    "moreInfo": "Lisätietoja",
+    "imageInquiries": "Kuvapyynnöt",
+    "aboutLead": "Kesla – Your Responsible Partner."
+  }
+}

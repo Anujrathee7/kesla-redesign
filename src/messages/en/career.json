@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "Career",
+    "description": "Open positions at Kesla in Joensuu, with pay, deadline, contact and how to apply, then the five kinds of work at Kesla, its values and its sites."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage"
+  },
+  "hero": {
+    "titleLead": "Work at",
+    "titleAccent": "Kesla",
+    "intro": "A proud member of the Kesla squad, that’s what we call ourselves at Kesla.",
+    "openNow": "Open now",
+    "openApplication": "Open application"
+  },
+  "band": {
+    "since": "Since 1960"
+  },
+  "jobs": {
+    "title": "Open positions",
+    "posted": "Posted",
+    "applyBy": "Apply by",
+    "permanent": "Permanent",
+    "permanentLower": "permanent",
+    "location": "Location",
+    "employment": "Employment",
+    "salary": "Salary",
+    "phone": "Phone",
+    "email": "Email",
+    "applyByEmail": "Apply by email",
+    "fullPosting": "Full posting",
+    "none": "No open positions right now",
+    "items": {
+      "software": {
+        "area": "Product development",
+        "salary": "€4,000–4,500 a month, depending on expertise and previous work experience",
+        "body": [
+          {
+            "lead": "We are looking for a Software Engineer to join our proud team",
+            "text": "for a permanent position. You will work as part of our product development team, coding the control experience of our products to the “next level”."
+          },
+          {
+            "lead": "What is the “positively proud Kesla team member” we are looking for?",
+            "text": "You likely have a higher education degree that includes a strong focus on programming. Low-level/hardware-oriented programming (PLC) is done using CODESYS ST. A basic understanding of parallel functions, such as electricity, hydraulics, or mechanics, is beneficial for the role. Knowledge of CANopen or J1939 is considered an additional plus. You have several years of work experience."
+          },
+          {
+            "text": "Your responsibilities include the design and implementation of control systems for our material handling machinery, ranging from user interface design and coding to practical installations, testing, and software maintenance. The work is not just typing code; it also includes plenty of hands-on tasks, such as building, installing, and testing prototype equipment on actual machines. The work is done in expert teams, so good teamwork skills are essential."
+          },
+          {
+            "text": "Kesla Oyj is a smoke-free workplace."
+          }
+        ],
+        "contact": "For more information about the position, please contact: Director, R&D <b>{name}</b> tel. <tel>{phone}</tel>.",
+        "howToApply": "Apply by 29th October 2026 at 23:59 by sending your application with salary expectations via email to <mail>{address}</mail>."
+      },
+      "export": {
+        "area": "Export logistics",
+        "salary": "€3,200–3,800 a month, depending on your skills and previous experience",
+        "body": [
+          {
+            "lead": "Are you the next passionate and proud Kesla team member?",
+            "text": "We are looking for an Export Coordinator to join us in a permanent position."
+          },
+          {
+            "text": "As an Export Coordinator, you will be responsible for the end-to-end coordination of the international order-to-delivery process for KESLA products, from order processing through to delivery and invoicing. Your key responsibilities will include processing orders in the ERP system, coordinating delivery schedules, tendering and arranging individual shipments, and managing freight, transportation, customs clearance, and export documentation. You will work closely with customers, dealers, sales, production, finance, and logistics and forwarding partners. The role also involves participating in the continuous development of export logistics processes and practices."
+          },
+          {
+            "lead": "What kind of positively proud Kesla team member are we looking for?"
+          },
+          {
+            "text": "You have a relevant commercial, logistics, technical, or other suitable educational background, along with preferably some experience in export operations, international order-to-delivery processes, or logistics. You are familiar with export procedures and practices, including customs clearance, Incoterms, and sales and transportation documentation. ERP systems are familiar to you, and experience with IFS is considered an advantage."
+          },
+          {
+            "text": "You are fluent in Finnish and English, and additional language skills will be seen as a benefit. You have a customer-oriented mindset, strong organizational skills, and a proactive approach to your work. You are able to manage multiple priorities and maintain control even in changing situations. You enjoy collaborating with others and are motivated to develop ways of working and improve processes."
+          },
+          {
+            "lead": "What do we offer?"
+          },
+          {
+            "text": "We offer you a versatile and responsible role in an international business environment, with opportunities to develop both your expertise and Kesla’s export logistics operations. As your experience and skills grow, the role may also expand to include broader sales and logistics support and development responsibilities."
+          },
+          {
+            "text": "Kesla Plc is a smoke-free workplace."
+          }
+        ],
+        "contact": "For further information about the position, please contact Managing Director & Acting Sales and Customer Care Director <b>{name}</b>, tel. <tel>{phone}</tel> / <mail>{email}</mail>.",
+        "howToApply": "Please apply for the position by October 27, 2026, at 23:59 by sending your application with salary expectations via email to <mail>{address}</mail>."
+      }
+    },
+    "openTitle": "Open application",
+    "openText": "Fill in the application to become a new Kesla employee.",
+    "openCta": "Open application"
+  },
+  "functions": {
+    "title": "Functions",
+    "intro": "At Kesla, we have several different operations that employ a wide range of experts. Check out the operations and their related job descriptions.",
+    "videos": "{count, plural, one {# role video} other {# role videos}}",
+    "items": {
+      "production": {
+        "name": "Production work",
+        "text": "Production employs a wide range of experts: welders, machinists, assemblers, surface treatment workers, supervisors, logistics workers, buyers and people involved in production planning."
+      },
+      "rnd": {
+        "name": "Product development",
+        "text": "The design of our products and the related production instructions are the responsibility of product design. It employs experts in areas such as mechanical design, electrical engineering, programming, hydraulics or documentation. Some designers work with a specific product group, others with several product groups."
+      },
+      "aftersales": {
+        "name": "Maintenance and spare parts",
+        "text": "Maintenance and spare parts takes care of the functionality of our products after they have been purchased. After-sales employs a wide range of experts: warehouse workers, spare parts coordinators, buyers, service technicians and service managers."
+      },
+      "sales": {
+        "name": "Sales and marketing",
+        "text": "Sales of our products are handled by market- and product group-specific sales managers, who are often supported by technical support personnel, product managers responsible for the products of different business operations, and export assistants who handle export forwarding and invoicing. Marketing, in turn, takes care of product communication in different market areas and different channels."
+      },
+      "support": {
+        "name": "Support functions",
+        "text": "In order to operate, our company also needs several support functions."
+      }
+    }
+  },
+  "values": {
+    "title": "Kesla’s values",
+    "intro": "Kesla’s values are responsibility, promptness, innovativeness and reliable performance.",
+    "items": {
+      "responsibility": {
+        "name": "Responsibility",
+        "text": "Responsibility arises from small everyday things. For example, good workmanship, a positive and solution-oriented attitude and pulling together."
+      },
+      "innovativeness": {
+        "name": "Innovativeness",
+        "text": "At Kesla, we regard an innovation as a new idea that is put into practice and brings benefits. Innovations are mostly everyday solutions. When everyone is involved in innovation, good results are achieved."
+      },
+      "promptness": {
+        "name": "Promptness",
+        "text": "At Kesla, promptness means not only acting promptly, but also observing the environment and taking changes into account in daily work, ensuring the completion of tasks."
+      },
+      "reliability": {
+        "name": "Reliable performance",
+        "text": "Reliability is important to us at Kesla because it lays the foundation for continuity. Reliability arises from the achievement of mutually agreed goals."
+      }
+    }
+  },
+  "sites": {
+    "title": "Sites",
+    "intro": "Around 200 people in three factories in Finland and a sales office in Germany.",
+    "address": "Address",
+    "roles": {
+      "joensuu": "Headquarters and factory",
+      "kesalahti": "Plant",
+      "ilomantsi": "Plant",
+      "appenweier": "Kesla GmbH, sales office in Germany"
+    }
+  }
+}

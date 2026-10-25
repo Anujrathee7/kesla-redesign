@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "Contacts",
+    "description": "Kesla spare part sales, service and warranty, chipper parts, contacts outside Finland, the service points in Finland, Kesla's offices and plants, and a contact request form."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage",
+    "current": "Contacts"
+  },
+  "title": "Contacts",
+  "imageAlt": "A mechanic tightens a bolt on a KESLA proG20 grapple with a spanner",
+  "actions": {
+    "call": "Call",
+    "write": "Write",
+    "open": "Open",
+    "callLabel": "Call {number}",
+    "writeLabel": "Write to {address}",
+    "openLabel": "Open {host}"
+  },
+  "parts": {
+    "label": "Spare part sales",
+    "call": "Call spare parts",
+    "write": "Write",
+    "writeLabel": "Write to spare parts, {address}",
+    "open": "Open",
+    "hours": "Mon to Fri 7 to 16",
+    "email": "Email",
+    "fax": "Fax",
+    "address": "Address"
+  },
+  "doors": {
+    "service": {
+      "title": "Service and warranty",
+      "who": "Service and warranty support",
+      "find": "Find a service point near you"
+    },
+    "chipper": {
+      "title": "Chipper parts",
+      "body": "Kesla sold its chipper business to UAB Ukmergės Staklės (USTA) in December 2025. USTA continues spare parts and technical support.",
+      "who": "{name}, Sales Engineer, USTA"
+    },
+    "abroad": {
+      "title": "Outside Finland",
+      "body": "In case there are no dealers nearby, contact the factory sales office.",
+      "sales": "Sales and marketing, Joensuu",
+      "gmbh": "Kesla GmbH, Appenweier, Germany",
+      "dealer": "Find a dealer"
+    }
+  },
+  "points": {
+    "title": "Service points in Finland",
+    "intro": "Search for your town, or pick your part of the country.",
+    "search": "Town, region or company",
+    "placeholder": "Oulu, Joensuu, Salo",
+    "clear": "Clear search",
+    "areas": "Part of Finland",
+    "all": "All",
+    "short": {
+      "south": "South",
+      "west": "West and Central",
+      "east": "East",
+      "north": "North"
+    },
+    "count": "<b>{shown} of {total}</b> service points",
+    "caption": "Kesla service points in Finland, grouped by region",
+    "town": "Town",
+    "workshop": "Workshop",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "none": "None listed",
+    "empty": "No service point matches that.",
+    "emptyClear": "Show all service points"
+  },
+  "other": {
+    "title": "Other contacts",
+    "general": {
+      "title": "General number",
+      "who": "Kesla Oyj, Joensuu",
+      "fee": "Calls to 0207 numbers from inside Finland cost 8.35 c per call plus 16.69 c per minute."
+    },
+    "sales": {
+      "title": "Sales and marketing",
+      "who": "Sales and marketing, Joensuu"
+    },
+    "invoicing": {
+      "title": "Invoicing",
+      "einvoice": "E-invoice address",
+      "operatorId": "Operator ID",
+      "or": "or",
+      "operator": "Operator",
+      "vat": "VAT number",
+      "who": "Accounts payable",
+      "note": "Kesla accepts invoices in electronic format. The invoice should have the buyer's order number, the buyer's name or a project number."
+    },
+    "sites": {
+      "title": "Factories and offices",
+      "joensuu": "Joensuu, head office",
+      "kesalahti": "Kesälahti plant",
+      "ilomantsi": "Ilomantsi plant",
+      "gmbh": "Kesla GmbH, Germany",
+      "gmbhPostal": "77767 Appenweier (postal address)",
+      "finland": "Finland",
+      "germany": "Germany",
+      "map": "Open in Google Maps"
+    }
+  },
+  "form": {
+    "title": "Contact request",
+    "intro": "Interested in our products, or in becoming a Kesla dealer or service point? Fill in the form and Kesla or a dealer will get back to you.",
+    "required": "Fields marked <star>*</star> are required.",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone number (with country code)",
+    "street": "Street address",
+    "postcode": "Postal code",
+    "town": "Town",
+    "country": "Country",
+    "products": "Products of interest",
+    "productList": ["Timber cranes", "City cranes", "Harvester heads", "Forest machine cranes", "Tractor attachments", "Grapples"],
+    "message": "More information",
+    "send": "Send",
+    "errors": {
+      "summary": "Fill in the marked fields above, then send again.",
+      "required": "Fill in {field}.",
+      "email": "Check the email address.",
+      "products": "Pick at least one product group."
+    },
+    "concept": "This is a concept site, so nothing was sent. To ask Kesla now, write to <mail>sales@kesla.com</mail> or call <tel>+358 207 862 841</tel>."
+  }
+}

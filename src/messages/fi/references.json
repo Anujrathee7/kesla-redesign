@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Referenssit",
+    "description": "Kesla kerää referenssejä, asiakaskokemuksia ja tarinoita asiakkailtaan ympäri maailmaa. Valitse maa ja aloita lukeminen."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu"
+  },
+  "intro": "Kesla kerää referenssejä, asiakaskokemuksia ja tarinoita asiakkailtaan ympäri maailmaa. Valitse maa ja aloita lukeminen.",
+  "picker": {
+    "label": "Maa",
+    "status": "Valittuna: {country}"
+  },
+  "countries": {
+    "FI": "Suomi",
+    "DE": "Saksa",
+    "AT": "Itävalta",
+    "FR": "Ranska",
+    "JP": "Japani",
+    "IE": "Irlanti",
+    "PL": "Puola",
+    "RU": "Venäjä",
+    "SE": "Ruotsi",
+    "UK": "Iso-Britannia"
+  },
+  "stories": "{count, plural, one {# tarina} other {# tarinaa}}",
+  "jumpLabel": "Tuoteryhmät",
+  "short": {
+    "cranes": "Autonosturit",
+    "logging": "Puunkorjuulaitteet",
+    "tractor": "Traktorivarusteet"
+  },
+  "video": "Video",
+  "otherLanguage": "Englanniksi",
+  "watch": "Katso video",
+  "read": "Lue tarina",
+  "watchRow": "Katso video: {title} (YouTube, avautuu uuteen välilehteen)",
+  "showAll": "Näytä kaikki {count}",
+  "showFewer": "Näytä vähemmän",
+  "abroad": {
+    "title": "{family} muissa maissa",
+    "count": "{shown, plural, one {# tarina} other {# tarinaa}}, kaikkiaan {total}"
+  }
+}

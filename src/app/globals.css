@@ -1,0 +1,234 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Light theme only, like kesla.com. `dark:` stays bound to a .dark class that is never set. */
+@custom-variant dark (&:is(.dark *));
+
+/* ------------------------------------------------------------------ */
+/* Kesla palette: white pages cut by black bands, yellow for action    */
+/* ------------------------------------------------------------------ */
+@theme {
+  --color-yellow: #feb825;
+  --color-yellow-hi: #ffcb55;
+  --color-black: #121212;
+  --color-black-hi: #2a2a2a;
+  --color-ink: #1a1a1a;
+  --color-grey: #575757;
+  --color-mute: #6e6e6e;
+  --color-paper: #f7f7f7;
+  --color-warm: #f0efec;
+  --color-line: #dedcd6;
+  --color-line-strong: #949189; /* 3:1 on white: field outlines, email/web square frames, scrollbar thumb, empty-cell dash */
+  --color-on-dark: #eceae5;
+  --color-on-dark-mute: #aba8a1;
+  --color-dark-line: #34332f;
+  --color-map: #3b3a36; /* a dealer country on the Dealers map, and its key swatch */
+
+  /* shadcn primitives (Sheet) read these */
+  --color-background: #ffffff;
+  --color-foreground: #1a1a1a;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #1a1a1a;
+  --color-muted-foreground: #6e6e6e;
+  --color-border: #dedcd6;
+  --color-ring: #feb825;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --radius: 0px;
+}
+
+@theme inline {
+  --font-display: var(--font-exo), "Helvetica Neue", Arial, sans-serif;
+  --font-heading: var(--font-exo), "Helvetica Neue", Arial, sans-serif;
+  --font-sans: var(--font-hind), "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ------------------------------------------------------------------ */
+/* Kesla shapes                                                         */
+/* ------------------------------------------------------------------ */
+
+/* One cut corner, bottom right, the way kesla.com cuts its panels. */
+@utility cut {
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% calc(100% - var(--cut, 14px)),
+    calc(100% - var(--cut, 14px)) 100%,
+    0 100%
+  );
+}
+
+/*
+ * Buttons paint their cut shape on pseudo-elements behind the label instead
+ * of clipping the element, because a clip-path also clips the element's own
+ * focus outline. `cut-fill` is a solid button in --fill.
+ */
+@utility cut-fill {
+  position: relative;
+  isolation: isolate;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: var(--fill);
+    transition: background-color 0.2s ease-out;
+    clip-path: polygon(
+      0 0,
+      100% 0,
+      100% calc(100% - var(--cut, 14px)),
+      calc(100% - var(--cut, 14px)) 100%,
+      0 100%
+    );
+  }
+}
+
+/*
+ * Outlined button with the same cut corner. A border cannot follow a
+ * clip-path, so ::before is the 2px frame colour and ::after fills the
+ * inside. The inner cut is 1.17px smaller so the diagonal keeps a 2px
+ * stroke too.
+ */
+@utility cut-frame {
+  position: relative;
+  isolation: isolate;
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+  }
+
+  &::before {
+    inset: 0;
+    background: var(--frame-color);
+    clip-path: polygon(
+      0 0,
+      100% 0,
+      100% calc(100% - var(--cut, 14px)),
+      calc(100% - var(--cut, 14px)) 100%,
+      0 100%
+    );
+  }
+
+  &::after {
+    inset: 2px;
+    background: var(--frame-fill);
+    transition: background-color 0.2s ease-out;
+    clip-path: polygon(
+      0 0,
+      100% 0,
+      100% calc(100% - var(--cut, 14px) + 1.17px),
+      calc(100% - var(--cut, 14px) + 1.17px) 100%,
+      0 100%
+    );
+  }
+}
+
+/* Side gutter that also clears a phone's side system bar. */
+@utility gutter {
+  padding-left: max(clamp(16px, 4vw, 40px), env(safe-area-inset-left, 0px));
+  padding-right: max(clamp(16px, 4vw, 40px), env(safe-area-inset-right, 0px));
+}
+
+@utility wrap {
+  width: 100%;
+  max-width: 1240px;
+  margin-inline: auto;
+}
+
+/* Small uppercase label set in Exo. */
+@utility caps {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.8125rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/*
+ * Text link with a persistent 2px yellow underline. On hover or focus a
+ * second line in the link's own colour (or --wipe-color) wipes in over it
+ * from the left. Drawn as two background lines rather than text-decoration,
+ * which cannot animate its length. The 6px padding stands in for the old
+ * underline offset and the negative margin keeps the layout where it was.
+ */
+@utility link-wipe {
+  text-decoration-line: none;
+  padding-bottom: 6px;
+  margin-bottom: -6px;
+  background-image:
+    linear-gradient(var(--wipe-color, currentColor), var(--wipe-color, currentColor)),
+    linear-gradient(var(--color-yellow), var(--color-yellow));
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 0% 2px, 100% 2px;
+  transition: background-size 0.4s var(--ease-out-expo);
+
+  &:hover,
+  &:focus-visible {
+    background-size: 100% 2px, 100% 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Base                                                                 */
+/* ------------------------------------------------------------------ */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background: var(--color-background);
+    color: var(--color-grey);
+    font-family: var(--font-sans);
+    font-size: 1.0625rem;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    color: var(--color-ink);
+    text-wrap: balance;
+    letter-spacing: -0.01em;
+  }
+
+  ::selection {
+    background: var(--color-yellow);
+    color: var(--color-black);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-yellow);
+    outline-offset: 2px;
+  }
+
+  /* On yellow grounds the yellow ring disappears; switch it to black. */
+  .on-yellow :focus-visible {
+    outline-color: var(--color-black);
+  }
+
+  html {
+    scrollbar-color: var(--color-mute) var(--color-paper);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      transition-duration: 0.01ms !important;
+      animation-duration: 0.01ms !important;
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "KESLA 2112Z timber crane",
+    "description": "KESLA 2112Z, a Z-boom timber crane in the 12 tonne-metre class, in three versions from 8.09 to 10.1 m outreach. Technical data, options, videos, datasheets and the dealers who sell it."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage",
+    "products": "Products",
+    "cranes": "Truck and stationary cranes",
+    "timber": "Timber cranes",
+    "current": "2112Z"
+  },
+  "name": "KESLA 2112Z",
+  "sub": "Z-boom timber crane, 12 tm class",
+  "version": {
+    "label": "Version",
+    "extensions": "{count, plural, one {# extension} other {# extensions}}",
+    "status": "KESLA {version}: outreach {outreach}, lifting torque {torque}, weight {weight}."
+  },
+  "figures": {
+    "outreach": "Outreach",
+    "torque": "Lifting torque, net",
+    "slewingTorque": "Slewing torque",
+    "telescope": "Telescope",
+    "weight": "Weight"
+  },
+  "offer": "Ask a dealer for an offer",
+  "offerShort": "Ask for an offer",
+  "datasheet": "Datasheet",
+  "newTab": "opens in a new tab",
+  "gallery": {
+    "label": "Photos",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "open": "Open the photo viewer, photo {n} of {total}",
+    "photo": "Photo {n} of {total}",
+    "viewer": "Photos of the KESLA 2112Z",
+    "close": "Close photos"
+  },
+  "tabs": {
+    "label": "Product information",
+    "overview": "Overview",
+    "technical": "Technical data",
+    "options": "Options",
+    "videos": "Videos",
+    "downloads": "Downloads",
+    "faq": "FAQ"
+  },
+  "overview": {
+    "intro1": "The Z-boom KESLA 2112Z is in the 12 tonne-metre class. It comes with one or two extensions and in several outreach lengths. As part of the new KESLA 21-series, it has several features that make it easier to use and service, among them hoses and pipes inside both the lift and transfer booms.",
+    "intro2": "Like the other Z-cranes, its transport position saves load space. It works with 2-circuit or LS hydraulics and suits CTL and recycling work.",
+    "versions": "The three versions",
+    "caption": "The three versions of the KESLA 2112Z side by side",
+    "features": "Features"
+  },
+  "spec": {
+    "caption": "Technical data of the KESLA 2112Z",
+    "rows": {
+      "outreach": "Outreach",
+      "torque": "Lifting torque, net",
+      "telescope": "Length of telescope",
+      "slewingTorque": "Slewing torque",
+      "slewingAngle": "Slewing angle",
+      "pressure": "Working pressure",
+      "weight": "Weight",
+      "weightWithLegs": "Weight + stabilizer legs",
+      "width": "Width",
+      "height": "Height"
+    },
+    "none": "Not listed"
+  },
+  "options": {
+    "title": "Options",
+    "accessories": "Accessories",
+    "only": "{versions} only"
+  },
+  "videos": {
+    "title": "Videos",
+    "youtube": "YouTube",
+    "mainAlt": "A green timber truck with a KESLA 2112Z crane loading logs at a roadside stack, a frame from the video"
+  },
+  "downloads": {
+    "title": "Downloads",
+    "brochures": "Brochures",
+    "on": "{code} · issuu"
+  },
+  "faq": {
+    "title": "Frequently asked questions"
+  },
+  "dealers": {
+    "title": "Ask a dealer for an offer",
+    "body": "Pick your country, choose a dealer and ask for an offer.",
+    "country": "Country",
+    "count": "{count, plural, one {# dealer} other {# dealers}} in {country}",
+    "all": "All dealers on the map",
+    "call": "Call {who}, {number}",
+    "email": "Email {address}",
+    "website": "Website {host}"
+  },
+  "media": {
+    "title": "The 2112 on video",
+    "all": "All videos on YouTube",
+    "watch": "Watch on YouTube"
+  },
+  "bar": {
+    "label": "Offer",
+    "version": "Version"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "References",
+    "description": "Kesla collects references, testimonials and stories from customers all around the world. Pick a country to start reading."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage"
+  },
+  "intro": "Kesla collects references, testimonials and stories from customers all around the world. Pick a country to start reading.",
+  "picker": {
+    "label": "Country",
+    "status": "Showing {country}"
+  },
+  "countries": {
+    "FI": "Finland",
+    "DE": "Germany",
+    "AT": "Austria",
+    "FR": "France",
+    "JP": "Japan",
+    "IE": "Ireland",
+    "PL": "Poland",
+    "RU": "Russia",
+    "SE": "Sweden",
+    "UK": "United Kingdom"
+  },
+  "stories": "{count, plural, one {# story} other {# stories}}",
+  "jumpLabel": "Product groups",
+  "short": {
+    "cranes": "Truck cranes",
+    "logging": "Logging equipment",
+    "tractor": "Tractor equipment"
+  },
+  "video": "Video",
+  "otherLanguage": "In Finnish",
+  "watch": "Watch the video",
+  "read": "Read the story",
+  "watchRow": "Watch the video: {title} (YouTube, opens in a new tab)",
+  "showAll": "Show all {count} stories",
+  "showFewer": "Show fewer",
+  "abroad": {
+    "title": "{family} in other countries",
+    "count": "{shown} of {total} stories"
+  }
+}

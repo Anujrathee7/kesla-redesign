@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "siteName": "Kesla",
+    "title": "Kesla",
+    "titleTemplate": "%s | Kesla",
+    "description": "Kesla on nykyaikaisen metsäteknologian ja materiaalinkäsittelyn vastuullinen kumppani. Ammattilaisten koneita Suomesta vuodesta 1960."
+  },
+  "concept": "Anuj Ratheen epävirallinen uudistusluonnos. Ei Keslan sivusto.",
+  "skipToContent": "Siirry sisältöön",
+  "nav": {
+    "label": "Päävalikko",
+    "products": "Tuotteet",
+    "references": "Referenssit",
+    "dealers": "Jälleenmyyjät",
+    "news": "Ajankohtaista",
+    "company": "Yritys",
+    "career": "Ura Keslalla",
+    "contacts": "Yhteystiedot",
+    "defence": "KESLA Defence",
+    "findDealer": "Löydä jälleenmyyjä",
+    "menu": "Valikko",
+    "close": "Sulje valikko",
+    "home": "Keslan etusivu"
+  },
+  "language": {
+    "label": "Kieli",
+    "en": "English",
+    "fi": "Suomi"
+  },
+  "families": {
+    "cranes": {
+      "name": "Auto- ja teollisuusnosturit",
+      "subs": ["Puutavaranosturit", "City-nosturit", "Kahmarit III"]
+    },
+    "logging": {
+      "name": "Puunkorjuulaitteet",
+      "subs": ["Kahmarit II", "Harvesterikourat", "Metsäkonenosturit"]
+    },
+    "tractor": {
+      "name": "Traktorivarusteet",
+      "subs": ["Kuormaimet", "Perävaunut", "Kahmarit I"]
+    }
+  },
+  "specialist": {
+    "title": "Haluatko jutella Keslan asiantuntijan kanssa?",
+    "factory": "Tehtaan yhteystiedot",
+    "dealer": "Löydä jälleenmyyjä"
+  },
+  "footer": {
+    "about": "Vastuullinen kumppanisi",
+    "products": "Tuotteet",
+    "kesla": "Kesla",
+    "company": "Yritys",
+    "career": "Ura Keslalla",
+    "references": "Referenssit",
+    "news": "Ajankohtaista",
+    "contact": "Yhteystiedot",
+    "factory": "Tehtaan yhteystiedot",
+    "dealers": "Jälleenmyyjät",
+    "spareParts": "Varaosatilaukset",
+    "extranet": "eKESLA jälleenmyyjille",
+    "follow": "Seuraa",
+    "privacy": "Tietosuojaselosteet",
+    "terms": "Käyttöehdot",
+    "legal": "Kesla Oyj"
+  },
+  "external": "avaa kesla.com"
+}

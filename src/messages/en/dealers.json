@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Kesla dealers",
+    "description": "Pick your country on the map, or from the list of countries outside Europe, and call the Kesla dealer nearest to you."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage",
+    "current": "Dealers"
+  },
+  "imageAlt": "A timber truck with a KESLA 2112Z crane loading logs by a forest road",
+  "factory": {
+    "title": "No dealer near you?",
+    "where": "Joensuu, Finland",
+    "email": "Email {address}"
+  },
+  "picker": {
+    "select": "Country",
+    "choose": "Choose a country",
+    "option": "{country} ({count})",
+    "status": "Showing {country}"
+  },
+  "map": {
+    "label": "Map of Europe. Countries with Kesla dealers can be picked.",
+    "country": "{country}, {count, plural, one {# dealer} other {# dealers}}",
+    "keyCountry": "Kesla dealer in the country",
+    "keyCount": "Number of dealers"
+  },
+  "outside": {
+    "title": "Outside Europe",
+    "am": "Americas",
+    "as": "Asia",
+    "af": "Africa"
+  },
+  "panel": {
+    "change": "Change country",
+    "count": "{count, plural, one {<b>#</b> dealer} other {<b>#</b> dealers}}",
+    "direct": "Kesla's own sales",
+    "search": "Town, company or name",
+    "clear": "Clear search",
+    "showing": "Showing <b>{shown}</b> of {total}",
+    "region": "Dealers, {country}",
+    "more": "Scroll for more",
+    "none": "No match",
+    "noneBody": "Nothing in {country} matches that.",
+    "noneClear": "Clear the search"
+  },
+  "start": {
+    "lead": "The countries with the most dealers:"
+  },
+  "company": {
+    "contacts": "{count} contacts",
+    "showAll": "Show all {count} {company} contacts",
+    "also": "Also",
+    "call": "Call {who}, {number}",
+    "email": "Email {address}",
+    "website": "Website {host}",
+    "noPhoneWeb": "No phone, website",
+    "noPhone": "No phone listed",
+    "families": {
+      "cranes": "Truck and stationary cranes",
+      "logging": "Logging equipment",
+      "tractor": "Tractor equipment"
+    }
+  },
+  "phoneLabels": {
+    "general": "General number",
+    "whatsapp": "WhatsApp",
+    "mobile": "Mobile"
+  },
+  "groups": {
+    "cr": "Timber and city cranes",
+    "fc": "Forest machine cranes",
+    "hh": "Harvester heads",
+    "lt": "Loaders, trailers",
+    "gr": "Grapples",
+    "sp": "Spare parts",
+    "cabins": "Cabins, high seats",
+    "hydrax": "KESLA HydraX"
+  },
+  "countries": {
+    "AR": "Argentina",
+    "AT": "Austria",
+    "BE": "Belgium",
+    "BA": "Bosnia and Herzegovina",
+    "BR": "Brazil",
+    "KH": "Cambodia",
+    "CA": "Canada",
+    "CN": "China",
+    "HR": "Croatia",
+    "CZ": "Czechia",
+    "DK": "Denmark",
+    "EE": "Estonia",
+    "FI": "Finland",
+    "FR": "France",
+    "DE": "Germany",
+    "GB": "Great Britain",
+    "GR": "Greece",
+    "GT": "Guatemala",
+    "HU": "Hungary",
+    "IN": "India",
+    "ID": "Indonesia",
+    "IE": "Ireland",
+    "IT": "Italy",
+    "JP": "Japan",
+    "KZ": "Kazakhstan",
+    "LA": "Laos",
+    "LV": "Latvia",
+    "LT": "Lithuania",
+    "MY": "Malaysia",
+    "NO": "Norway",
+    "PL": "Poland",
+    "PT": "Portugal",
+    "RO": "Romania",
+    "RE": "Réunion",
+    "SG": "Singapore",
+    "SK": "Slovakia",
+    "SI": "Slovenia",
+    "ZA": "South Africa",
+    "KR": "South Korea",
+    "ES": "Spain",
+    "SE": "Sweden",
+    "CH": "Switzerland",
+    "TW": "Taiwan",
+    "TH": "Thailand",
+    "US": "USA",
+    "UY": "Uruguay",
+    "VN": "Vietnam"
+  }
+}

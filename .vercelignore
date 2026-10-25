@@ -1,0 +1,17 @@
+# Design working files, not needed at runtime
+/screens
+/variants
+/original
+/assets
+/.impeccable
+/.playwright-mcp
+DESIGN.md
+PRODUCT.md
+
+# Build output and dependencies (Vercel installs and builds remotely)
+/.next
+/node_modules
+*.tsbuildinfo
+
+# Local secrets (vercel link writes an OIDC token here)
+.env*

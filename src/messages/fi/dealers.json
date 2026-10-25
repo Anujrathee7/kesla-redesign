@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Kesla-jälleenmyyjät",
+    "description": "Valitse maasi kartalta tai Euroopan ulkopuolisten maiden listasta ja soita lähimmälle Kesla-jälleenmyyjälle."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu",
+    "current": "Jälleenmyyjät"
+  },
+  "imageAlt": "Puutavara-auto lastaa tukkeja metsätien varresta KESLA 2112Z -⁠nosturilla",
+  "factory": {
+    "title": "Eikö jälleenmyyjää lähellä?",
+    "where": "Joensuu, Suomi",
+    "email": "Sähköposti: {address}"
+  },
+  "picker": {
+    "select": "Maa",
+    "choose": "Valitse maa",
+    "option": "{country} ({count})",
+    "status": "Valittuna: {country}"
+  },
+  "map": {
+    "label": "Euroopan kartta. Maat, joissa on Kesla-jälleenmyyjä, voi valita.",
+    "country": "{country}, {count, plural, one {# jälleenmyyjä} other {# jälleenmyyjää}}",
+    "keyCountry": "Maassa on Kesla-jälleenmyyjä",
+    "keyCount": "Jälleenmyyjien määrä"
+  },
+  "outside": {
+    "title": "Euroopan ulkopuolella",
+    "am": "Amerikka",
+    "as": "Aasia",
+    "af": "Afrikka"
+  },
+  "panel": {
+    "change": "Vaihda maata",
+    "count": "{count, plural, one {<b>#</b> jälleenmyyjä} other {<b>#</b> jälleenmyyjää}}",
+    "direct": "Keslan oma myynti",
+    "search": "Paikkakunta, yritys tai nimi",
+    "clear": "Tyhjennä haku",
+    "showing": "Näytetään <b>{shown}</b> / {total}",
+    "region": "Jälleenmyyjät, {country}",
+    "more": "Lisää alempana",
+    "none": "Ei osumia",
+    "noneBody": "{country}: haulla ei löytynyt mitään.",
+    "noneClear": "Tyhjennä haku"
+  },
+  "start": {
+    "lead": "Eniten jälleenmyyjiä on näissä maissa:"
+  },
+  "company": {
+    "contacts": "{count} yhteyshenkilöä",
+    "showAll": "Näytä kaikki {count} yhteyshenkilöä",
+    "also": "Myös",
+    "call": "Soita: {who}, {number}",
+    "email": "Sähköposti: {address}",
+    "website": "Verkkosivu: {host}",
+    "noPhoneWeb": "Ei puh., verkkosivu",
+    "noPhone": "Ei puhelinnumeroa",
+    "families": {
+      "cranes": "Auto- ja teollisuusnosturit",
+      "logging": "Puunkorjuulaitteet",
+      "tractor": "Traktorivarusteet"
+    }
+  },
+  "phoneLabels": {
+    "general": "Vaihde",
+    "whatsapp": "WhatsApp",
+    "mobile": "Matkapuh."
+  },
+  "groups": {
+    "cr": "Puutavara- ja City-nosturit",
+    "fc": "Metsäkonenosturit",
+    "hh": "Harvesterikourat",
+    "lt": "Kuormaimet, perävaunut",
+    "gr": "Kahmarit",
+    "sp": "Varaosat",
+    "cabins": "Hytit, avohallinta",
+    "hydrax": "KESLA HydraX"
+  },
+  "countries": {
+    "AR": "Argentiina",
+    "AT": "Itävalta",
+    "BE": "Belgia",
+    "BA": "Bosnia ja Hertsegovina",
+    "BR": "Brasilia",
+    "KH": "Kambodža",
+    "CA": "Kanada",
+    "CN": "Kiina",
+    "HR": "Kroatia",
+    "CZ": "Tšekki",
+    "DK": "Tanska",
+    "EE": "Viro",
+    "FI": "Suomi",
+    "FR": "Ranska",
+    "DE": "Saksa",
+    "GB": "Iso-Britannia",
+    "GR": "Kreikka",
+    "GT": "Guatemala",
+    "HU": "Unkari",
+    "IN": "Intia",
+    "ID": "Indonesia",
+    "IE": "Irlanti",
+    "IT": "Italia",
+    "JP": "Japani",
+    "KZ": "Kazakstan",
+    "LA": "Laos",
+    "LV": "Latvia",
+    "LT": "Liettua",
+    "MY": "Malesia",
+    "NO": "Norja",
+    "PL": "Puola",
+    "PT": "Portugali",
+    "RO": "Romania",
+    "RE": "Réunion",
+    "SG": "Singapore",
+    "SK": "Slovakia",
+    "SI": "Slovenia",
+    "ZA": "Etelä-Afrikka",
+    "KR": "Etelä-Korea",
+    "ES": "Espanja",
+    "SE": "Ruotsi",
+    "CH": "Sveitsi",
+    "TW": "Taiwan",
+    "TH": "Thaimaa",
+    "US": "Yhdysvallat",
+    "UY": "Uruguay",
+    "VN": "Vietnam"
+  }
+}

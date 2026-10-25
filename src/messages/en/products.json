@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Products",
+    "description": "Kesla truck and stationary cranes, logging equipment and tractor equipment. Pick your base machine to see the cranes, harvester heads, loaders, trailers and grapples that fit it."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage"
+  },
+  "title": "Products",
+  "intro": "Pick your base machine.",
+  "picker": {
+    "label": "Base machine",
+    "status": "Showing {family}"
+  },
+  "families": {
+    "cranes": {
+      "base": "Truck or fixed base",
+      "intro": "Truck-mounted and industrial cranes, known earlier as PEKU and FORESTERI. For short and long wood, chip processing, industrial use and recycling.",
+      "imageAlt": "KESLA timber crane loading logs onto a truck at sunset"
+    },
+    "logging": {
+      "base": "Forest machine or excavator",
+      "imageAlt": "KESLA 19RH III twinAX harvester head on an excavator in a pine forest"
+    },
+    "tractor": {
+      "base": "Tractor",
+      "imageAlt": "Tractor with a KESLA 144ND trailer and 316T loader carrying logs"
+    }
+  },
+  "subs": {
+    "timber": {
+      "name": "Timber cranes",
+      "all": "See all timber cranes",
+      "intro": "Mostly truck-mounted, for handling timber. Straight-boom and Z-boom models.",
+      "imageAlt": "KESLA timber crane with a proG grapple on a truck in winter"
+    },
+    "city": {
+      "name": "City cranes",
+      "all": "See all City cranes",
+      "intro": "For recycling, material handling and building sites. All City cranes have KESLA proSTABILITY.",
+      "imageAlt": "KESLA City crane on a truck in a city street at night"
+    },
+    "g3": {
+      "name": "Grapples III",
+      "all": "See all Grapples III",
+      "intro": "The largest KESLA grapples, for truck and industrial cranes. proG models are for timber, proGE models for energy wood.",
+      "imageAlt": "KESLA proG40 grapple"
+    },
+    "heads": {
+      "name": "Harvester heads",
+      "all": "See all harvester heads",
+      "intro": "Roller and stroke harvester heads for forest machines and excavators, including excavator harvester packages.",
+      "imageAlt": "KESLA 20RH harvester head cutting a log in a snowy forest"
+    },
+    "fmc": {
+      "name": "Forest machine cranes",
+      "all": "See all forest machine cranes",
+      "intro": "Cranes for forwarders and harvesters.",
+      "imageAlt": "KESLA 13105H crane with a harvester head on a forest machine"
+    },
+    "g2": {
+      "name": "Grapples II",
+      "all": "See all Grapples II",
+      "intro": "proG timber grapples for forest machine cranes. They also fit loaders and cranes of other brands.",
+      "imageAlt": "KESLA proG30 grapple"
+    },
+    "loaders": {
+      "name": "Loaders",
+      "all": "See all loaders",
+      "intro": "Tractor loaders built on the same solutions as Kesla's truck and forest machine cranes.",
+      "imageAlt": "KESLA 305T loader on a forest trailer lifting logs behind a tractor"
+    },
+    "trailers": {
+      "name": "Trailers",
+      "all": "See all trailers",
+      "intro": "Timber trailers for tractors.",
+      "imageAlt": "KESLA 144ND timber trailer with a loader behind a tractor, loaded with logs"
+    },
+    "g1": {
+      "name": "Grapples I",
+      "all": "See all Grapples I",
+      "intro": "proG grapples for tractor loaders, from 0.18 m² timber grapples to energy wood grapples, plus the KESLA 19GX felling head.",
+      "imageAlt": "KESLA proG26 grapple"
+    }
+  },
+  "specs": {
+    "reach": "Outreach",
+    "torque": "Lifting torque, net",
+    "area": "Grapple area",
+    "weight": "Weight",
+    "cut": "Max. cutting diameter",
+    "cap4": "Lifting capacity at 4 m",
+    "cap": "Carrying capacity",
+    "tarea": "Load space area",
+    "torqueAt4m": "Lifting torque, net at 4 m",
+    "weightNoRotator": "Weight without rotator",
+    "models": "Models"
+  },
+  "types": {
+    "st": "Straight boom",
+    "z": "Z-boom",
+    "zf": "Front folding Z-boom",
+    "tl": "Tree-length",
+    "cs": "Straight boom",
+    "cz": "Z-boom",
+    "fw": "Forwarder crane",
+    "hv": "Harvester crane",
+    "r": "Roller feed",
+    "r3": "Roller feed, 3rd generation",
+    "s": "Stroke feed"
+  },
+  "dealer": "Find a dealer"
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Puutavaranosturit",
+    "description": "Kaikki 20 KESLA-puutavaranosturimallia ja niiden 67 versiota. Rajaa puomiston, ulottuman, nostomomentin ja hydrauliikan mukaan, avaa malli tai löydä jälleenmyyjä."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu",
+    "products": "Tuotteet",
+    "family": "Auto- ja teollisuusnosturit"
+  },
+  "title": "Puutavaranosturit",
+  "intro": "KESLA-puutavaranosturit asennetaan useimmiten kuorma-autoon puutavaran käsittelyyn, tavaralajeittain tai kokopuuna. Ne sopivat myös bioenergian käsittelyyn, esimerkiksi hakkurin syöttöön, sekä kiinteästi teollisuuteen. Nostureita on sekä suora- että Z-⁠puomisina.",
+  "standard": "KESLA-nosturit täyttävät EN 12999:2011 HC1/HD4/B4 -⁠standardin.",
+  "links": {
+    "protect": "KESLA proTECT -pintakäsittely",
+    "cabins": "Hytit ja avohallintalaitteet"
+  },
+  "heroAlt": "KESLA 2225 -nosturi puutavara-autossa, kuormana tukkeja",
+  "heroCaption": "KESLA 2225",
+  "finder": {
+    "label": "Mallihaku",
+    "filters": "Rajaa",
+    "activeCount": "{count, plural, one {# rajaus päällä} other {# rajausta päällä}}",
+    "boom": "Puomisto",
+    "booms": {
+      "s": "Suorapuomi",
+      "z": "Z-puomi",
+      "zf": "Eteenpäin avautuva Z-puomi"
+    },
+    "hydraulics": "Hydrauliikka",
+    "hyd": {
+      "1c": "1-piiri",
+      "2c": "2-piiri",
+      "lsm": "LS, mekaaninen",
+      "lse": "LS, sähköinen"
+    },
+    "tagCount": "{count, plural, one {# malli} other {# mallia}}",
+    "reach": "Ulottuma vähintään",
+    "torque": "Nostomomentti vähintään",
+    "any": "Mikä tahansa",
+    "atLeastM": "≥ {value} m",
+    "atLeastKnm": "≥ {value} kNm",
+    "valueM": "{value} m",
+    "valueKnm": "{value} kNm",
+    "reachValueText": "vähintään {value} metriä",
+    "torqueValueText": "vähintään {value} kNm",
+    "reset": "Tyhjennä valinnat",
+    "models": "{count, plural, one {# malli} other {# mallia}}",
+    "versions": "{count, plural, one {# versio} other {# versiota}}",
+    "fitting": "{fit}/{total} versiota sopii",
+    "sort": "Järjestä",
+    "sorts": {
+      "n": "Malli",
+      "r": "Ulottuma",
+      "t": "Momentti"
+    },
+    "listLabel": "Puutavaranosturimallit",
+    "versionsLabel": "Mallin {model} versiot",
+    "fits": "sopii",
+    "class": "luokka {tm} tm",
+    "groups": {
+      "ctl": "tavaralaji",
+      "tl": "kokopuu"
+    },
+    "outreach": "Ulottuma",
+    "torqueShort": "Momentti",
+    "empty": {
+      "tagsTitle": "Millään mallilla ei ole tätä yhdistelmää",
+      "tags": "Kokeile vähemmillä rajauksilla.",
+      "bothTitle": "Mikään versio ei täytä kumpaakin ehtoa",
+      "atReach": "Vähintään {reach} metrin ulottumalla vahvin versio on {version}, {torque} kNm.",
+      "noReach": "Mikään valituista ei ulotu {reach} metriin.",
+      "atTorque": "Vähintään {torque} kNm:n momentilla pisin ulottuma on versiolla {version}, {reach} m.",
+      "noTorque": "Mikään valituista ei yllä {torque} kNm:n nostomomenttiin."
+    }
+  },
+  "features": {
+    "title": "Ominaisuudet",
+    "items": [
+      { "image": "hosing", "title": "Sisäpuolinen letkutus", "text": "Uusissa KESLA 21-sarjan nostureissa letkutus on puomin sisässä myös siirtopuomissa. Se vähentää letkurikon riskiä." },
+      { "image": "zboom", "title": "Tilaa säästävä Z-puomisto", "text": "Keslalla on iso valikoima Z-puomisia nostureita. Näiden nostureiden kuljetusasento säästää arvokasta kuormatilaa." },
+      { "image": "joint", "title": "Uudentyyppinen nosto- ja taittopuomin liitos", "text": "Uudenlainen liitos pitää nosto- ja taittopuomin väliset hydrauliletkut hyvin suojassa." },
+      { "image": "wideangle", "title": "Laajakulmanivel", "text": "Laajakulmanivel varmistaa parhaan mahdollisen nostokyvyn eri puomin asennoissa." },
+      { "image": "vbottom", "title": "Siirtopuomin V-pohja", "text": "Tekee kahmarin kanssa työskentelystä tarkempaa." },
+      { "image": "keslink", "title": "KesLINK-riipuke", "text": "Keslan luoma KesLINK-riipuke suojaa kahmarille meneviä letkuja." },
+      { "image": "valves", "title": "Laaja valikoima ohjausventtiileitä", "text": "Kesla tarjoaa laajan valikoiman niin mekaanisia kuin sähköisiä ohjausventtiileitä." },
+      { "image": "stabilizers", "title": "Tukijalka- ja tukijalkasylinterivaihtoehdot", "text": "Integroidut, erilliset, erikoisleveät, hakkurikäyttöön tai asemakäyttöön tarkoitetut. Valikoima riippuu nosturimallista." },
+      { "image": "topseat", "title": "Yläohjausvarustus", "text": "Sopii erityisesti silloin, kun lastaus- ja purkuajat ovat lyhyitä. Standardiversion lisäksi on sivulle asettuva versio, josta näkee hyvin nosturityöhön, ja E-versio, jonka kääntymissäde on erityisen pieni." },
+      { "image": "grapples", "title": "Laaja KESLA proG-kahmarivalikoima", "text": "Malleja niin puu- kuin bioenergiakäyttöön. Kahmareiden geometria on tarkkaan suunniteltu, ja niillä on helppo tarttua niin yhteen puuhun kuin puunippuunkin. Kestävät materiaalit takaavat pitkän käyttöiän." }
+    ]
+  },
+  "faq": {
+    "title": "Kysymyksiä",
+    "items": [
+      { "q": "Voiko KESLA-nostureita käyttää muuhunkin kuin puiden lastaamiseen?", "a": "Kyllä. KESLA-nostureita ja kuormaimia käytetään mm. kalkin, bioenergian, jätteen, polttopuiden ja metallin käsittelyyn. Yleensä tarvitaan toisenlainen kahmari." },
+      { "q": "Voiko KESLA-nosturiin saada sähköisen ohjausventtiilin?", "a": "Kyllä, hytillä varustettuihin KESLA-nostureihin." },
+      { "q": "Kuinka keskusvoitelujärjestelmä toimii?", "a": "Vaihtoehtoja on kaksi, mekaaninen ja sähköinen. Mekaaninen järjestelmä syöttää rasvaa voitelulinjoihin, kun tukijalat levitetään. Sähköistä järjestelmää ohjataan kokonaan hytistä." },
+      { "q": "Minkälaisia viilennysvaihtoehtoja KESLA proCAB -hytteihin saa?", "a": "Viilennin- ja ilmastointilaitteet ovat valinnaisia. Jos erilliselle laitteelle ei ole tilaa, voidaan asentaa kattotuuletin." }
+    ]
+  },
+  "downloads": {
+    "title": "Esitteet ja tekniset tiedot",
+    "brochureEn": "Truck and industrial cranes",
+    "brochureEnNote": "Englanninkielinen esite, Issuu",
+    "brochureFi": "Auto- ja teollisuusnosturit",
+    "brochureFiNote": "Suomenkielinen esite, Issuu",
+    "datasheets": "Tekninen esite malleittain",
+    "datasheetLabel": "KESLA {model}, tekninen esite"
+  },
+  "dealers": {
+    "title": "Löydä puutavaranosturien jälleenmyyjä",
+    "intro": "{dealers} jälleenmyyjää {countries} maassa. Valitse maasi.",
+    "country": "Maa",
+    "option": "{country} ({count})",
+    "count": "{count, plural, one {# jälleenmyyjä: {country}} other {# jälleenmyyjää: {country}}}"
+  },
+  "media": {
+    "title": "Puutavaranosturit videolla",
+    "all": "Kaikki videot YouTubessa",
+    "main": "KESLA 2124Z työssä",
+    "mainAlt": "Ilmakuva metsätiellä seisovasta puutavara-autosta ja sen KESLA 2124Z -nosturista. Kuva videolta.",
+    "watch": "Katso YouTubessa",
+    "midpillar": "KESLA 2112ZT ja välipylväs: lastaus rautatieterminaalissa",
+    "skTrans": "KESLA 2217Z: SK Trans Oy Ab",
+    "subtitles": "Englanninkielinen tekstitys",
+    "worrlein": "Reiner Wörrlein: KESLA 2112Z",
+    "youtube": "YouTube",
+    "newTab": "(avautuu uuteen välilehteen)"
+  }
+}

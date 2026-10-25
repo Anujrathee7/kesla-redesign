@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Company",
+    "description": "Kesla is a Finnish family company founded in 1960. Factories in Joensuu, Kesälahti and Ilomantsi, a sales office in Germany, about 200 people, and A shares listed on Nasdaq Helsinki."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage"
+  },
+  "hero": {
+    "titleLead": "A family company",
+    "titleAccent": "since 1960",
+    "intro": "Kesla is a responsible partner that develops machinery, technology and services for the sustainable success of its customers, both in and outside the forest.",
+    "jumpLabel": "On this page",
+    "jump": {
+      "sites": "Sites",
+      "quality": "Quality",
+      "history": "History",
+      "management": "Management",
+      "investors": "Investors"
+    },
+    "factsLabel": "Kesla in brief",
+    "facts": [
+      { "label": "Founded", "text": "1960 in Rantasalmi, by farmer Antti Kärkkäinen" },
+      { "label": "Turnover 2025", "text": "€34.4 million, 53% of it from export" },
+      { "label": "Employees", "text": "Around 200" },
+      { "label": "Headquarters", "text": "Joensuu, Finland" },
+      { "label": "Production", "text": "Joensuu, Kesälahti and Ilomantsi" },
+      { "label": "Subsidiary", "text": "Kesla GmbH, sales office in Appenweier, Germany" },
+      { "label": "Ownership", "text": "Family owned, A shares listed on Nasdaq Helsinki" }
+    ]
+  },
+  "band": {
+    "tagline": "Your responsible partner"
+  },
+  "sites": {
+    "title": "Offices and production plants",
+    "imageAlt": "KESLA 26RH harvester head cutting a log in the forest",
+    "address": "Address",
+    "phone": "Phone",
+    "countries": {
+      "finland": "Finland",
+      "germany": "Germany"
+    },
+    "roles": {
+      "joensuu": "Headquarters and factory",
+      "kesalahti": "Plant",
+      "ilomantsi": "Plant",
+      "appenweier": "Kesla GmbH, sales office"
+    }
+  },
+  "quality": {
+    "title": "Quality and responsibility",
+    "reports": "Sustainability reports",
+    "themes": {
+      "economy": { "name": "Economic wellbeing" },
+      "partnership": { "name": "Partnership" },
+      "resources": { "name": "Efficient use of resources" },
+      "safety": { "name": "Safety" },
+      "energy": { "name": "Energy efficiency" }
+    },
+    "certificates": "Certificates and ratings",
+    "badges": {
+      "iso9001": { "name": "ISO 9001" },
+      "iso3834": { "name": "ISO 3834-2" },
+      "aaa": { "name": "AAA" },
+      "luotettava": { "name": "Luotettava Kumppani" },
+      "esg": { "name": "Nasdaq ESG" },
+      "madeinfinland": { "name": "Made in Finland" },
+      "gdpr": { "name": "GDPR" },
+      "asiakastieto": { "name": "Asiakastieto" }
+    }
+  },
+  "history": {
+    "title": "Kesla – from the 60s to today",
+    "all": "Read the full history",
+    "decades": {
+      "d1960": "The beginning: Stone and Antti",
+      "d1970": "Facilities grow small",
+      "d1980": "Livelihoods from the woods",
+      "d1990": "Growing share of exports",
+      "d2000": "Multitalent of forest technology",
+      "d2010": "Decade of growing pains",
+      "d2020": "#yourlifetimematch"
+    },
+    "book": "Close-up Kesla 1960–2020"
+  },
+  "management": {
+    "title": "Management team",
+    "board": "Board and committees",
+    "people": {
+      "nieminen": { "title": "CEO and Interim Vice President, Sales & Customer Care" },
+      "jormanainen": { "title": "Director, Supply Chain" },
+      "miettinen": { "title": "CFO" },
+      "pirinen": { "title": "Director, PMO and KESLA Defence" },
+      "tahvanainen": { "title": "Director, Product Management & Digitalization" },
+      "sederholm": { "title": "Interim Vice President, R&D" }
+    },
+    "note": "Tuomo Salo joins the management team as Vice President, Sales and Customer Experience no later than December 2026."
+  },
+  "investors": {
+    "title": "Investors",
+    "language": "The investor pages are in Finnish.",
+    "cta": "Investor pages",
+    "contactRole": "CEO, investor relations",
+    "email": "Email",
+    "phone": "Phone"
+  }
+}

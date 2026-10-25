@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "KESLA 2112Z -puutavaranosturi",
+    "description": "KESLA 2112Z, Z-puominen puutavaranosturi 12 tonnimetrin luokassa, kolmena versiona 8,09–10,1 metrin ulottumalla. Tekniset tiedot, varusteet, videot, esitteet ja jälleenmyyjät."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu",
+    "products": "Tuotteet",
+    "cranes": "Auto- ja teollisuusnosturit",
+    "timber": "Puutavaranosturit",
+    "current": "2112Z"
+  },
+  "name": "KESLA 2112Z",
+  "sub": "Z-puominen puutavaranosturi, 12 tm",
+  "version": {
+    "label": "Versio",
+    "extensions": "{count, plural, one {# jatke} other {# jatketta}}",
+    "status": "KESLA {version}: ulottuma {outreach}, nostomomentti {torque}, paino {weight}."
+  },
+  "figures": {
+    "outreach": "Ulottuma",
+    "torque": "Nostomomentti, netto",
+    "slewingTorque": "Kääntömomentti",
+    "telescope": "Jatke",
+    "weight": "Paino"
+  },
+  "offer": "Kysy tarjous jälleenmyyjältä",
+  "offerShort": "Kysy tarjous",
+  "datasheet": "Tekninen esite",
+  "newTab": "avautuu uuteen välilehteen",
+  "gallery": {
+    "label": "Kuvat",
+    "prev": "Edellinen kuva",
+    "next": "Seuraava kuva",
+    "open": "Avaa kuvakatselin, kuva {n}/{total}",
+    "photo": "Kuva {n}/{total}",
+    "viewer": "KESLA 2112Z:n kuvat",
+    "close": "Sulje kuvakatselin"
+  },
+  "tabs": {
+    "label": "Tuotetiedot",
+    "overview": "Esittely",
+    "technical": "Tekniset tiedot",
+    "options": "Varusteet",
+    "videos": "Videot",
+    "downloads": "Tiedostot",
+    "faq": "FAQ"
+  },
+  "overview": {
+    "intro1": "Z-puominen KESLA 2112Z kuuluu 12 tonnimetrin luokkaan. Sitä saa yhdellä tai kahdella jatkeella ja useilla eri ulottumilla. Nosturi kuuluu uuteen KESLA 21 -⁠sarjaan, ja siinä on useita käyttöä ja huoltoa helpottavia ominaisuuksia, muun muassa sekä nosto- että siirtopuomin sisällä kulkevat letkut ja putket.",
+    "intro2": "Kuten muissakin Z-nostureissa, sen kuljetusasento säästää kuormatilaa. Sen voi kytkeä 2-piiri- tai LS-hydrauliikkaan, ja se sopii tavaralajimenetelmään ja kierrätystöihin.",
+    "versions": "Kolme versiota",
+    "caption": "KESLA 2112Z:n kolme versiota rinnakkain",
+    "features": "Ominaisuudet"
+  },
+  "spec": {
+    "caption": "KESLA 2112Z:n tekniset tiedot",
+    "rows": {
+      "outreach": "Ulottuma",
+      "torque": "Nostomomentti, netto",
+      "telescope": "Jatkeen isku",
+      "slewingTorque": "Kääntömomentti",
+      "slewingAngle": "Kääntökulma",
+      "pressure": "Työpaine",
+      "weight": "Paino",
+      "weightWithLegs": "Paino + tukijalat",
+      "width": "Leveys",
+      "height": "Korkeus"
+    },
+    "none": "Ei ilmoitettu"
+  },
+  "options": {
+    "title": "Varusteet",
+    "accessories": "Lisävarusteet",
+    "only": "vain {versions}"
+  },
+  "videos": {
+    "title": "Videot",
+    "youtube": "YouTube",
+    "mainAlt": "Vihreä puutavara-auto ja KESLA 2112Z -nosturi lastaamassa tukkeja tienvarsipinosta, kuva videolta"
+  },
+  "downloads": {
+    "title": "Tiedostot",
+    "brochures": "Esitteet",
+    "on": "{code} · issuu"
+  },
+  "faq": {
+    "title": "Usein kysyttyä"
+  },
+  "dealers": {
+    "title": "Kysy tarjous jälleenmyyjältä",
+    "body": "Valitse maasi ja jälleenmyyjä ja pyydä tarjous.",
+    "country": "Maa",
+    "count": "{country}: {count, plural, one {# jälleenmyyjä} other {# jälleenmyyjää}}",
+    "all": "Kaikki jälleenmyyjät kartalla",
+    "call": "Soita: {who}, {number}",
+    "email": "Sähköposti: {address}",
+    "website": "Verkkosivu: {host}"
+  },
+  "media": {
+    "title": "2112 videoilla",
+    "all": "Kaikki videot YouTubessa",
+    "watch": "Katso YouTubessa"
+  },
+  "bar": {
+    "label": "Tarjous",
+    "version": "Versio"
+  }
+}

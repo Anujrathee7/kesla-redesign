@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Tuotteet",
+    "description": "Keslan auto- ja teollisuusnosturit, puunkorjuulaitteet ja traktorivarusteet. Valitse peruskoneesi ja katso, mitkä nosturit, harvesterikourat, kuormaimet, perävaunut ja kahmarit siihen sopivat."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu"
+  },
+  "title": "Tuotteet",
+  "intro": "Valitse peruskoneesi.",
+  "picker": {
+    "label": "Peruskone",
+    "status": "Valittuna: {family}"
+  },
+  "families": {
+    "cranes": {
+      "base": "Kuorma-auto tai kiinteä alusta",
+      "intro": "Auto- ja teollisuusnosturit, aiemmin myös nimillä PEKU ja FORESTERI. Lyhyelle ja pitkälle puutavaralle, hakkeen käsittelyyn, teollisuuteen ja kierrätykseen.",
+      "imageAlt": "KESLA-puutavaranosturi lastaa tukkeja rekkaan auringonlaskussa"
+    },
+    "logging": {
+      "base": "Metsäkone tai kaivinkone",
+      "imageAlt": "KESLA 19RH III twinAX -harvesterikoura kaivinkoneessa männikössä"
+    },
+    "tractor": {
+      "base": "Traktori",
+      "imageAlt": "Traktori, KESLA 144ND -perävaunu ja 316T-kuormain, kuormassa tukkeja"
+    }
+  },
+  "subs": {
+    "timber": {
+      "name": "Puutavaranosturit",
+      "all": "Kaikki puutavaranosturit",
+      "intro": "Useimmiten kuorma-autoon asennettuja, puutavaran käsittelyyn. Sekä suora- että Z-⁠puomisia malleja.",
+      "imageAlt": "KESLA-puutavaranosturi ja proG-kahmari kuorma-autossa talvella"
+    },
+    "city": {
+      "name": "City-nosturit",
+      "all": "Kaikki City-nosturit",
+      "intro": "Kierrätykseen, materiaalinkäsittelyyn ja rakennustyömaille. Kaikissa City-nostureissa on KESLA proSTABILITY.",
+      "imageAlt": "KESLA City -nosturi kuorma-autossa kaupungin kadulla yöllä"
+    },
+    "g3": {
+      "name": "Kahmarit III",
+      "all": "Kaikki Kahmarit III",
+      "intro": "Suurimmat KESLA-kahmarit auto- ja teollisuusnostureihin. proG-mallit ovat puutavaralle, proGE-mallit energiapuulle.",
+      "imageAlt": "KESLA proG40 -kahmari"
+    },
+    "heads": {
+      "name": "Harvesterikourat",
+      "all": "Kaikki harvesterikourat",
+      "intro": "Rulla- ja sykesyöttöiset harvesterikourat metsäkoneisiin ja kaivinkoneisiin, myös kaivinkoneiden harvesteripaketit.",
+      "imageAlt": "KESLA 20RH -harvesterikoura katkaisee tukkia lumisessa metsässä"
+    },
+    "fmc": {
+      "name": "Metsäkonenosturit",
+      "all": "Kaikki metsäkonenosturit",
+      "intro": "Nosturit ajokoneisiin ja harvestereihin.",
+      "imageAlt": "KESLA 13105H -nosturi ja harvesterikoura metsäkoneessa"
+    },
+    "g2": {
+      "name": "Kahmarit II",
+      "all": "Kaikki Kahmarit II",
+      "intro": "proG-puutavarakahmarit metsäkonenostureihin. Sopivat myös muiden merkkien kuormaimiin ja nostureihin.",
+      "imageAlt": "KESLA proG30 -kahmari"
+    },
+    "loaders": {
+      "name": "Kuormaimet",
+      "all": "Kaikki kuormaimet",
+      "intro": "Traktorikuormaimet, joiden rakenne pohjautuu Keslan auto- ja metsäkonenostureihin.",
+      "imageAlt": "KESLA 305T -kuormain metsäperävaunussa nostaa tukkeja traktorin takana"
+    },
+    "trailers": {
+      "name": "Perävaunut",
+      "all": "Kaikki perävaunut",
+      "intro": "Metsäperävaunut traktoriin.",
+      "imageAlt": "KESLA 144ND -metsäperävaunu ja kuormain traktorin perässä, kuormassa tukkeja"
+    },
+    "g1": {
+      "name": "Kahmarit I",
+      "all": "Kaikki Kahmarit I",
+      "intro": "proG-kahmarit traktorikuormaimiin, 0,18 m² puutavarakahmareista energiapuukahmareihin, sekä KESLA 19GX -kaatopää.",
+      "imageAlt": "KESLA proG26 -kahmari"
+    }
+  },
+  "specs": {
+    "reach": "Ulottuma",
+    "torque": "Nostomomentti, netto",
+    "area": "Kahmarin pinta-ala",
+    "weight": "Paino",
+    "cut": "Suurin katkaisuläpimitta",
+    "cap4": "Nostokyky 4 metrissä",
+    "cap": "Kantavuus",
+    "tarea": "Kuormatilan pinta-ala",
+    "torqueAt4m": "Nostomomentti, netto 4 metrissä",
+    "weightNoRotator": "Paino ilman rotaattoria",
+    "models": "Mallit"
+  },
+  "types": {
+    "st": "Suorapuomi",
+    "z": "Z-puomi",
+    "zf": "Eteenpäin avautuva Z-puomi",
+    "tl": "Kokopuu",
+    "cs": "Suorapuomi",
+    "cz": "Z-puomi",
+    "fw": "Ajokonenosturi",
+    "hv": "Harvesterinosturi",
+    "r": "Rullasyöttö",
+    "r3": "Rullasyöttö, III sukupolvi",
+    "s": "Sykesyöttö"
+  },
+  "dealer": "Löydä jälleenmyyjä"
+}

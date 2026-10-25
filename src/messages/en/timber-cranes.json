@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Timber cranes",
+    "description": "All 20 KESLA timber crane models and their 67 versions. Filter by boom, outreach, lifting torque and hydraulics, then open a model or find a dealer."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage",
+    "products": "Products",
+    "family": "Truck and stationary cranes"
+  },
+  "title": "Timber cranes",
+  "intro": "KESLA timber cranes are most often mounted on a truck to handle timber, sorted by wood type or as whole trunks. They also suit bioenergy work, for example feeding a chipper, and fixed industrial use. The range has both straight-boom and Z-⁠boom cranes.",
+  "standard": "KESLA cranes meet the EN 12999:2011 HC1/HD4/B4 standard.",
+  "links": {
+    "protect": "KESLA proTECT surface protection",
+    "cabins": "Cabins and high seats"
+  },
+  "heroAlt": "KESLA 2225 tree-length crane on a timber truck at sunrise",
+  "heroCaption": "KESLA 2225",
+  "finder": {
+    "label": "Model finder",
+    "filters": "Filters",
+    "activeCount": "{count, plural, one {# filter on} other {# filters on}}",
+    "boom": "Boom",
+    "booms": {
+      "s": "Straight boom",
+      "z": "Z-boom",
+      "zf": "Front-folding Z-boom"
+    },
+    "hydraulics": "Hydraulics",
+    "hyd": {
+      "1c": "1-circuit",
+      "2c": "2-circuit",
+      "lsm": "LS, mechanical",
+      "lse": "LS, electric"
+    },
+    "tagCount": "{count, plural, one {# model} other {# models}}",
+    "reach": "Outreach, at least",
+    "torque": "Lifting torque, at least",
+    "any": "Any",
+    "atLeastM": "≥ {value} m",
+    "atLeastKnm": "≥ {value} kNm",
+    "valueM": "{value} m",
+    "valueKnm": "{value} kNm",
+    "reachValueText": "at least {value} metres",
+    "torqueValueText": "at least {value} kNm",
+    "reset": "Reset filters",
+    "models": "{count, plural, one {# model} other {# models}}",
+    "versions": "{count, plural, one {# version} other {# versions}}",
+    "fitting": "{fit} of {total} versions fit",
+    "sort": "Sort",
+    "sorts": {
+      "n": "Model",
+      "r": "Outreach",
+      "t": "Torque"
+    },
+    "listLabel": "Timber crane models",
+    "versionsLabel": "Versions of the {model}",
+    "fits": "fits",
+    "class": "class {tm} tm",
+    "groups": {
+      "ctl": "CTL",
+      "tl": "tree-length"
+    },
+    "outreach": "Outreach",
+    "torqueShort": "Torque",
+    "empty": {
+      "tagsTitle": "No model has that combination",
+      "tags": "Try fewer filters.",
+      "bothTitle": "No version does both",
+      "atReach": "At {reach} m or more, the strongest version is the {version} at {torque} kNm.",
+      "noReach": "Nothing in this selection reaches {reach} m.",
+      "atTorque": "With {torque} kNm or more, the longest reach is the {version} at {reach} m.",
+      "noTorque": "Nothing in this selection lifts {torque} kNm."
+    }
+  },
+  "features": {
+    "title": "Features",
+    "items": [
+      { "image": "hosing", "title": "In-boom hosing", "text": "In the new 21-series KESLA cranes the hoses run inside the booms, the transfer boom too. This cuts the risk of hose damage." },
+      { "image": "zboom", "title": "Space-saving Z-boom", "text": "Kesla offers a wide range of Z-boom cranes. Their transport position saves valuable load space." },
+      { "image": "joint", "title": "New joint between the main and transfer booms", "text": "The new type of joint keeps the hydraulic hoses well protected." },
+      { "image": "wideangle", "title": "Wide-angle joint", "text": "Gives the best lifting capacity in every boom position." },
+      { "image": "vbottom", "title": "V-shaped bottom of the transfer boom", "text": "Makes work with the grapple more precise." },
+      { "image": "keslink", "title": "KesLINK link", "text": "The KesLINK link, invented by Kesla, protects the hoses that lead to the grapple." },
+      { "image": "valves", "title": "Wide choice of control valves", "text": "Kesla offers both mechanical and electric control valves for its cranes." },
+      { "image": "stabilizers", "title": "Stabilizer and stabilizer cylinder options", "text": "Integrated, separate, extra wide, for chipper use or for stationary use. The choice depends on the model." },
+      { "image": "topseat", "title": "Top-seat equipment", "text": "Handy when loading and unloading are short. Besides the standard version there is a side version with a good view of the work, and an E version with a very small slewing radius." },
+      { "image": "grapples", "title": "The KESLA proG grapple range", "text": "Timber and bioenergy grapples in many sizes. The geometry is carefully planned, so one log or a big bunch is easy to grab. Durable materials give a long service life." }
+    ]
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      { "q": "Can KESLA cranes be used for other work than timber loading?", "a": "Yes. KESLA cranes and loaders can handle lime, bioenergy, scrap, metal and firewood, among many others. Usually another kind of grapple is needed." },
+      { "q": "Is an electric control valve available?", "a": "Yes, for KESLA cranes with a cabin." },
+      { "q": "How does the central lubrication system work?", "a": "There are two options, mechanical and electric. The mechanical system feeds grease to the lines when the stabilizers are stretched out. The electric system is fully controlled from the cabin." },
+      { "q": "What cooling is available for KESLA proCAB cabins?", "a": "A cooler and air conditioning are optional. Where there is no room for cooling equipment, a ceiling fan is available." }
+    ]
+  },
+  "downloads": {
+    "title": "Brochures and datasheets",
+    "brochureEn": "Truck and industrial cranes",
+    "brochureEnNote": "Brochure in English, on issuu",
+    "brochureFi": "Auto- ja teollisuusnosturit",
+    "brochureFiNote": "Brochure in Finnish, on issuu",
+    "datasheets": "Datasheet for each model",
+    "datasheetLabel": "KESLA {model} datasheet"
+  },
+  "dealers": {
+    "title": "Find a timber crane dealer",
+    "intro": "{dealers} dealers in {countries} countries. Pick your country.",
+    "country": "Country",
+    "option": "{country} ({count})",
+    "count": "{count, plural, one {# dealer in {country}} other {# dealers in {country}}}"
+  },
+  "media": {
+    "title": "Timber cranes on video",
+    "all": "All videos on YouTube",
+    "main": "KESLA 2124Z action video",
+    "mainAlt": "Aerial view of a timber truck with a KESLA 2124Z crane on a forest road, a frame from the video",
+    "watch": "Watch on YouTube",
+    "midpillar": "KESLA 2112ZT with midpillar: loading in railroad terminal",
+    "skTrans": "KESLA 2217Z: SK Trans Oy Ab",
+    "subtitles": "English subtitles",
+    "worrlein": "Reiner Wörrlein: KESLA 2112Z",
+    "youtube": "YouTube",
+    "newTab": "(opens in a new tab)"
+  }
+}

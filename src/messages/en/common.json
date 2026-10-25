@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "siteName": "Kesla",
+    "title": "Kesla",
+    "titleTemplate": "%s | Kesla",
+    "description": "Kesla is your responsible partner in modern forest technology and material handling. Professional machinery made in Finland since 1960."
+  },
+  "concept": "Unofficial redesign concept by Anuj Rathee. Not Kesla's site.",
+  "skipToContent": "Skip to content",
+  "nav": {
+    "label": "Main",
+    "products": "Products",
+    "references": "References",
+    "dealers": "Dealers",
+    "news": "News",
+    "company": "Company",
+    "career": "Career",
+    "contacts": "Contacts",
+    "defence": "KESLA Defence",
+    "findDealer": "Find a dealer",
+    "menu": "Menu",
+    "close": "Close menu",
+    "home": "Kesla frontpage"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "fi": "Suomi"
+  },
+  "families": {
+    "cranes": {
+      "name": "Truck and stationary cranes",
+      "subs": ["Timber cranes", "City cranes", "Grapples III"]
+    },
+    "logging": {
+      "name": "Logging equipment",
+      "subs": ["Grapples II", "Harvester heads", "Forest machine cranes"]
+    },
+    "tractor": {
+      "name": "Tractor equipment",
+      "subs": ["Loaders", "Trailers", "Grapples I"]
+    }
+  },
+  "specialist": {
+    "title": "Want to talk to a Kesla specialist?",
+    "factory": "Factory contacts",
+    "dealer": "Find a dealer"
+  },
+  "footer": {
+    "about": "Your responsible partner",
+    "products": "Products",
+    "kesla": "Kesla",
+    "company": "Company",
+    "career": "Career",
+    "references": "References",
+    "news": "News and events",
+    "contact": "Contact",
+    "factory": "Factory contacts",
+    "dealers": "Dealers",
+    "spareParts": "Spare parts (Finland)",
+    "extranet": "eKESLA dealer extranet",
+    "follow": "Follow",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "legal": "Kesla Oyj"
+  },
+  "external": "opens kesla.com"
+}

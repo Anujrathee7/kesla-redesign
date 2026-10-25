@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Vastuullinen kumppanisi | Kesla",
+    "description": "Kesla on nykyaikaisen metsäteknologian ja materiaalinkäsittelyn vastuullinen kumppani. Auto- ja teollisuusnosturit, puunkorjuulaitteet ja traktorivarusteet, valmistettu Suomessa vuodesta 1960."
+  },
+  "hero": {
+    "titleLead": "Vastuullinen",
+    "titleAccent": "kumppanisi",
+    "intro": "Kesla on nykyaikaisen metsäteknologian ja materiaalinkäsittelyn vastuullinen kumppani. Innovatiiviset, laadukkaat tuotteemme on tehty Suomessa vuosikymmenten kokemuksella ja asiakasymmärryksellä, varmistaen työsi onnistumisen niin metsässä kuin sen ulkopuolellakin.",
+    "products": "Tutustu tuotteisiin",
+    "dealer": "Löydä jälleenmyyjä",
+    "imageAlt": "KESLA-puutavaranosturi lastaa tukkeja rekkaan auringonlaskussa"
+  },
+  "families": {
+    "title": "Tuotteet",
+    "all": "Kaikki tuotteet",
+    "imageAlt": {
+      "cranes": "KESLA-autonosturi puutavara-autossa",
+      "logging": "KESLA 20RH II -harvesterikoura työssä männikössä",
+      "tractor": "KESLA-traktorikuormain nostaa tukkeja metsäperävaunuun"
+    }
+  },
+  "highlights": {
+    "title": "Nostot",
+    "twinax": {
+      "name": "KESLA twinAX",
+      "text": "Markkinoiden kustannustehokkain ratkaisu puun katkaisuun",
+      "cta": "Lue lisää",
+      "imageAlt": "KESLA 19RH III twinAX -harvesterikoura kuusimetsässä"
+    },
+    "items": [
+      {
+        "key": "catalogues",
+        "name": "Esitteet",
+        "text": "Lue KESLA-esitteet"
+      },
+      {
+        "key": "chipper",
+        "name": "Hakkurimyynti, varaosat ja tekninen tuki",
+        "text": "USTA, Simonas Gutauskas, +370 630 89318"
+      },
+      {
+        "key": "shop",
+        "name": "KESLA-webkauppa",
+        "text": "Tutustu uusittuun valikoimaan"
+      },
+      {
+        "key": "defence",
+        "name": "KESLA Defence",
+        "text": "Uusi KESLA Defence -tuotelinja"
+      }
+    ]
+  },
+  "news": {
+    "news": "Uutiset",
+    "events": "Tapahtumat",
+    "allNews": "Kaikki uutiset",
+    "allEvents": "Kaikki tapahtumat",
+    "newsItems": [
+      {
+        "date": "2026-10-15",
+        "title": "Avoin työpaikka: Software Engineer",
+        "kind": "Uutiset",
+        "path": "/fi/ajankohtaista/uutinen/avoin-tyoepaikka-software-engineer-1"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Avoin työpaikka: Export Coordinator",
+        "kind": "Uutiset",
+        "path": "/fi/ajankohtaista/uutinen/avoin-tyoepaikka-export-coordinator"
+      },
+      {
+        "date": "2026-09-08",
+        "title": "Muistutus hakkurien varaosista",
+        "kind": "Uutiset",
+        "path": "/fi/ajankohtaista/uutinen/reminder-regarding-chipper-spare-parts"
+      }
+    ],
+    "eventItems": [
+      {
+        "date": "2026-09-03",
+        "title": "Kesla mukana FinnMETKO 2026 -näyttelyssä",
+        "kind": "Tapahtuma",
+        "path": "/fi/ajankohtaista/uutinen/kesla-at-finnmetko-2026-meet-us-in-jaemsaenkoski"
+      },
+      {
+        "date": "2026-07-20",
+        "title": "Kesla mukana INTERFORST 2026 -messuilla Münchenissä",
+        "kind": "Uutiset",
+        "path": "/fi/ajankohtaista/uutinen/kesla-to-exhibit-at-interforst-2026-in-munich"
+      }
+    ]
+  },
+  "media": {
+    "title": "Kesla videolla",
+    "all": "Kaikki videot YouTubessa",
+    "main": {
+      "title": "Pohjois-Karjalasta maailmalle",
+      "by": "Inka Hämäläinen × Kesla",
+      "watch": "Katso YouTubessa",
+      "imageAlt": "Mies Kesla-lippalakissa KESLA 2210 -nosturin edessä, kuva videolta"
+    },
+    "and": "ja",
+    "view360": "Ohjausjärjestelmä, 360 asteen näkymä",
+    "follow": "Seuraa Keslaa"
+  }
+}

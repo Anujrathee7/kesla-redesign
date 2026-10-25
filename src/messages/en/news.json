@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "News",
+    "description": "Kesla news sorted by what a machine buyer needs from it: new machines first, then fairs, dealer, parts and service notices, company and investor releases, and open jobs last."
+  },
+  "breadcrumb": {
+    "label": "Breadcrumb",
+    "home": "Frontpage",
+    "news": "News"
+  },
+  "title": "News",
+  "headImageAlt": "KESLA 19RH III twinAX harvester head in a spruce forest",
+  "filter": {
+    "label": "Topic",
+    "everything": "Everything",
+    "status": "{count, plural, one {Showing # item} other {Showing # items}}: {topic}",
+    "statusAll": "Showing all {count} items"
+  },
+  "topics": {
+    "machines": {
+      "title": "Machines and launches"
+    },
+    "fairs": {
+      "title": "Events"
+    },
+    "service": {
+      "title": "Dealers, parts and service"
+    },
+    "company": {
+      "title": "Company and investors"
+    },
+    "careers": {
+      "title": "Careers"
+    }
+  },
+  "all": "All {count}",
+  "allLabel": "All {count} in {topic}",
+  "kind": {
+    "news": "News",
+    "press": "Press release",
+    "event": "Event"
+  },
+  "otherLanguage": "In Finnish",
+  "readMore": "Read more",
+  "stand": "{count, plural, one {stand {stand}} other {stands {stand}}}",
+  "fairStatus": {
+    "now": "On now",
+    "lastDay": "Last day today",
+    "next": "{days, plural, one {Starts tomorrow} other {Starts in # days}}",
+    "ended": "{days, plural, one {Ended yesterday} other {Ended # days ago}}"
+  },
+  "article": {
+    "crumb": "Press releases",
+    "seeCranes": "See forest machine cranes",
+    "findDealer": "Find a dealer",
+    "glanceTitle": "At a glance",
+    "modelsTitle": "The F-series models",
+    "allCranes": "All forest machine cranes",
+    "moreInfo": "More information",
+    "imageInquiries": "Image inquiries",
+    "aboutLead": "Kesla – Your Responsible Partner."
+  }
+}

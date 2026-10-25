@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Yritys",
+    "description": "Kesla on vuonna 1960 perustettu suomalainen perheyhtiö. Tuotantolaitokset Joensuussa, Kesälahdella ja Ilomantsissa, myyntiyhtiö Saksassa, noin 200 henkilöä ja A-osakkeet Nasdaq Helsinki Oy:ssä."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu"
+  },
+  "hero": {
+    "titleLead": "Perheyhtiö",
+    "titleAccent": "vuodesta 1960",
+    "intro": "Kesla on vastuullinen kumppani, joka kehittää työkoneita, teknologiaa ja palveluita asiakkaidensa kestävään menestykseen niin metsässä kuin sen ulkopuolellakin.",
+    "jumpLabel": "Tällä sivulla",
+    "jump": {
+      "sites": "Toimipaikat",
+      "quality": "Laatu",
+      "history": "Historia",
+      "management": "Johto",
+      "investors": "Sijoittajille"
+    },
+    "factsLabel": "Kesla lyhyesti",
+    "facts": [
+      { "label": "Perustettu", "text": "1960 Rantasalmella, perustaja pienviljelijä Antti Kärkkäinen" },
+      { "label": "Liikevaihto 2025", "text": "34,4 M€, josta viennin osuus 53 %" },
+      { "label": "Työntekijöitä", "text": "Noin 200" },
+      { "label": "Päätoimipaikka", "text": "Joensuu" },
+      { "label": "Tuotanto", "text": "Joensuu, Kesälahti ja Ilomantsi" },
+      { "label": "Tytäryhtiö", "text": "Kesla GmbH, myyntiyhtiö Appenweierissa, Saksassa" },
+      { "label": "Omistus", "text": "Perheyhtiö, A-osakkeet noteerataan Nasdaq Helsinki Oy:ssä" }
+    ]
+  },
+  "band": {
+    "tagline": "Your responsible partner"
+  },
+  "sites": {
+    "title": "Toimipisteet ja tuotantolaitokset",
+    "imageAlt": "KESLA 26RH -harvesterikoura katkaisee runkoa metsässä",
+    "address": "Osoite",
+    "phone": "Puhelin",
+    "countries": {
+      "finland": "Suomi",
+      "germany": "Saksa"
+    },
+    "roles": {
+      "joensuu": "Päätoimipaikka ja tehdas",
+      "kesalahti": "Tehdas",
+      "ilomantsi": "Tehdas",
+      "appenweier": "Kesla GmbH, myyntiyhtiö"
+    }
+  },
+  "quality": {
+    "title": "Laatu ja vastuullisuus",
+    "reports": "Vastuullisuusraportit",
+    "themes": {
+      "economy": { "name": "Taloudellinen hyvinvointi" },
+      "partnership": { "name": "Kumppanuus" },
+      "resources": { "name": "Resurssien tehokas käyttö" },
+      "safety": { "name": "Turvallisuus" },
+      "energy": { "name": "Energiatehokkuus" }
+    },
+    "certificates": "Sertifikaatit ja luokitukset",
+    "badges": {
+      "iso9001": { "name": "ISO 9001" },
+      "iso3834": { "name": "ISO 3834-2" },
+      "aaa": { "name": "AAA" },
+      "luotettava": { "name": "Luotettava Kumppani" },
+      "esg": { "name": "Nasdaq ESG" },
+      "madeinfinland": { "name": "Tehty Suomessa" },
+      "gdpr": { "name": "GDPR" },
+      "asiakastieto": { "name": "Asiakastieto" }
+    }
+  },
+  "history": {
+    "title": "Kesla – 60-⁠luvulta tähän päivään",
+    "all": "Lue koko historia",
+    "decades": {
+      "d1960": "Alussa oli – Kivi ja Antti",
+      "d1970": "Tilat käyvät pieneksi",
+      "d1980": "Metsä on monen leipäpuu",
+      "d1990": "Viennin osuus kasvaa",
+      "d2000": "Metsäteknologian moniosaaja",
+      "d2010": "Kasvukipujen vuosikymmen",
+      "d2020": "#yourlifetimematch"
+    },
+    "book": "Lähikuvassa Kesla 1960–2020"
+  },
+  "management": {
+    "title": "Johtoryhmä",
+    "board": "Hallitus ja valiokunnat",
+    "people": {
+      "nieminen": { "title": "Toimitusjohtaja" },
+      "jormanainen": { "title": "Toimitusketjujohtaja" },
+      "miettinen": { "title": "Talousjohtaja" },
+      "pirinen": { "title": "Johtaja, PMO ja Kesla Defence" },
+      "tahvanainen": { "title": "Tuotehallinta- ja digitalisaatiojohtaja" },
+      "sederholm": { "title": "Väliaikainen tuotekehitysjohtaja" }
+    },
+    "note": "Tuomo Salo liittyy johtoryhmään tehtävässä Vice President, Sales and Customer Experience viimeistään joulukuussa 2026."
+  },
+  "investors": {
+    "title": "Sijoittajille",
+    "language": "",
+    "cta": "Sijoittajasivut",
+    "contactRole": "Toimitusjohtaja, sijoittajayhteydet",
+    "email": "Sähköposti",
+    "phone": "Puhelin"
+  }
+}

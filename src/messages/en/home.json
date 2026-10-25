@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Your responsible partner | Kesla",
+    "description": "Kesla is your responsible partner in modern forest technology and material handling. Truck and stationary cranes, logging equipment and tractor equipment, made in Finland since 1960."
+  },
+  "hero": {
+    "titleLead": "Your responsible",
+    "titleAccent": "partner",
+    "intro": "Kesla is your responsible partner in modern forest technology and material handling. Our innovative, high-quality professional machinery, made in Finland with decades of experience and customer understanding, helps you succeed, in and outside the forest.",
+    "products": "Explore products",
+    "dealer": "Find a dealer",
+    "imageAlt": "A KESLA timber crane with a Kesla squad cab loading logs onto a truck at sunset"
+  },
+  "families": {
+    "title": "Products",
+    "all": "All products",
+    "imageAlt": {
+      "cranes": "KESLA truck crane on a timber truck",
+      "logging": "KESLA 20RH II harvester head at work in a pine forest",
+      "tractor": "KESLA tractor loader lifting logs onto a forest trailer"
+    }
+  },
+  "highlights": {
+    "title": "Highlights",
+    "twinax": {
+      "name": "KESLA twinAX",
+      "text": "The most cost-effective wood-cutting solution",
+      "cta": "Read more",
+      "imageAlt": "KESLA 19RH III twinAX harvester head in a spruce forest"
+    },
+    "items": [
+      {
+        "key": "catalogues",
+        "name": "Catalogues",
+        "text": "Read KESLA catalogues"
+      },
+      {
+        "key": "chipper",
+        "name": "Chipper sales, spare parts and technical support",
+        "text": "USTA, Simonas Gutauskas, +370 630 89318"
+      },
+      {
+        "key": "shop",
+        "name": "KESLA brand shop",
+        "text": "Deliveries now also around the EU"
+      },
+      {
+        "key": "defence",
+        "name": "KESLA Defence",
+        "text": "Explore the new product line"
+      }
+    ]
+  },
+  "news": {
+    "news": "News",
+    "events": "Events",
+    "allNews": "All news",
+    "allEvents": "All events",
+    "newsItems": [
+      {
+        "date": "2026-10-15",
+        "title": "Open vacancy: Software Engineer",
+        "kind": "News",
+        "path": "/en/news/article/open-vacancy-software-engineer"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Open vacancy: Export Coordinator",
+        "kind": "News",
+        "path": "/en/news/article/open-vacancy-export-coordinator"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "Change in Kesla Plc's Management Team: Kesla appoints Tuomo Salo as Vice President, Sales and Customer Experience",
+        "kind": "Press release",
+        "path": "/en/news/article/change-in-kesla-plcs-management-team-kesla-appoints-tuomo-salo-as-sales-and-customer-care-director"
+      }
+    ],
+    "eventItems": [
+      {
+        "date": "2026-09-03",
+        "title": "Kesla at FinnMETKO 2026: meet us in Jämsänkoski",
+        "kind": "Event",
+        "path": "/en/news/article/kesla-at-finnmetko-2026-meet-us-in-jaemsaenkoski"
+      },
+      {
+        "date": "2026-07-20",
+        "title": "Kesla to exhibit at INTERFORST 2026 in Munich",
+        "kind": "News",
+        "path": "/en/news/article/kesla-to-exhibit-at-interforst-2026-in-munich"
+      }
+    ]
+  },
+  "media": {
+    "title": "Kesla on video",
+    "all": "All videos on YouTube",
+    "main": {
+      "title": "From North Karelia to the world",
+      "by": "Inka Hämäläinen × Kesla",
+      "watch": "Watch on YouTube",
+      "imageAlt": "A man in a Kesla squad cap in front of a KESLA 2210 crane, a frame from the video"
+    },
+    "and": "and",
+    "view360": "Control system, 360 degree view",
+    "follow": "Follow Kesla"
+  }
+}

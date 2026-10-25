@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Ura Keslalla",
+    "description": "Keslan avoimet työpaikat Joensuussa: palkka, hakuaika, yhteyshenkilö ja hakuohjeet. Lisäksi Keslan viisi toimintoa, arvot ja toimipaikat."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu"
+  },
+  "hero": {
+    "titleLead": "Töihin",
+    "titleAccent": "Keslalle",
+    "intro": "Proud member of the Kesla squad, näin me nimitämme meitä keslalaisia.",
+    "openNow": "Avoinna nyt",
+    "openApplication": "Avoin hakemus"
+  },
+  "band": {
+    "since": "Vuodesta 1960"
+  },
+  "jobs": {
+    "title": "Avoimet työpaikat",
+    "posted": "Julkaistu",
+    "applyBy": "Haku päättyy",
+    "permanent": "Vakituinen",
+    "permanentLower": "vakituinen",
+    "location": "Sijainti",
+    "employment": "Työsuhde",
+    "salary": "Palkka",
+    "phone": "Puhelin",
+    "email": "Sähköposti",
+    "applyByEmail": "Hae sähköpostitse",
+    "fullPosting": "Koko ilmoitus",
+    "none": "Ei avoimia työpaikkoja juuri nyt",
+    "items": {
+      "software": {
+        "area": "Tuotekehitys",
+        "salary": "4 000–4 500 €/kk riippuen osaamisesta ja aiemmasta työkokemuksesta",
+        "body": [
+          {
+            "lead": "Meillä on haussa ylpeään joukkoomme toistaiseksi voimassa olevaan työsuhteeseen Software Engineer eli tuttavallisemmin ohjelmistosuunnittelija.",
+            "text": "Työskentelet osana tuotekehitys­tiimiämme koodaten tuotteidemme ohjauskokemuksen ”nextille levelille”."
+          },
+          {
+            "lead": "Millainen sitten on etsimämme positiivisesti ylpeä keslalainen?",
+            "text": "Sinulla on todennäköisesti korkeakoulututkinto, johon sisältyy vahvasti ohjelmointi. Laitteistoläheinen ohjelmointi (PLC) tehdään Codesys ST:llä. Tehtävässä on hyödyksi rinnakkaisten toimintojen, kuten sähkön, hydrauliikan tai mekaniikan, perustuntemus. Lisäplussaa tuovat CANOpen tai J1939-tuntemus. Työkokemusta sinulla on useampi vuosi."
+          },
+          {
+            "text": "Tehtäviisi kuuluu materiaalin­käsittely­koneidemme ohjaus­järjestelmien suunnittelu ja toteutus aina käyttöliittymä­suunnittelusta ja koodaamisesta käytännön asennuksiin, testauksiin ja ohjelmiston ylläpitoon. Työ ei siis ole pelkkää koodin naputtamista, vaan se sisältää runsaasti myös hands on –tekemistä, kuten protolaitteiden rakentamista, asentamista ja testaamista ihan oikealla koneella. Työ tehdään asiantuntijatiiminä, joten hyvät yhteistyötaidot ovat välttämättömät."
+          },
+          {
+            "text": "Kesla Oyj on savuton työpaikka."
+          }
+        ],
+        "contact": "Lisätietoja tehtävästä antaa suunnittelujohtaja <b>{name}</b>, puh. <tel>{phone}</tel>.",
+        "howToApply": "Hae tehtävää 29.10.2026 klo 23:59 mennessä lähettämällä hakemuksesi palkkatoiveineen sähköpostitse <mail>{address}</mail>."
+      },
+      "export": {
+        "area": "Vientilogistiikka",
+        "salary": "3 200–3 800 €/kk riippuen osaamisesta ja aiemmasta työkokemuksesta",
+        "body": [
+          {
+            "lead": "Oletko sinä seuraava innostunut ja työstään ylpeä keslalainen?",
+            "text": "Haemme vakituiseen työsuhteeseen vientikoordinaattoria."
+          },
+          {
+            "text": "Vientikoordinaattorina vastaat KESLA-tuotteiden kansainvälisen tilaus-toimitusprosessin kokonaisvaltaisesta koordinoinnista aina tilauksen käsittelystä toimitukseen ja laskutukseen saakka. Työhösi kuuluvat muun muassa tilausten käsittely ERP-järjestelmässä, toimitusaikojen koordinointi, yksittäisten kuljetusten kilpailuttaminen ja järjestäminen sekä rahti-, kuljetus-, tullaus- ja vientiasiakirjoista huolehtiminen. Teet tiivistä yhteistyötä asiakkaiden, jälleenmyyjien, myynnin, tuotannon, taloushallinnon sekä kuljetus- ja huolintakumppaneiden kanssa. Tehtävässä osallistut myös vientilogistiikan toimintatapojen kehittämiseen."
+          },
+          {
+            "lead": "Millainen sitten on etsimämme positiivisesti ylpeä keslalainen?",
+            "text": "Sinulla on tehtävään soveltuva koulutus ja/tai kokemusta vientikaupan, kansainvälisen tilaus-toimitusprosessin, asiakaspalvelun tai logistiikan tehtävistä. Tunnet vientikaupan käytännöt, kuten tullauksen, toimitusehdot (Incoterms) ja myyntiin ja kuljetuksiin liittyvän dokumentaation. Toiminnanohjaus­järjestelmät ovat sinulle tuttuja, ja IFS-osaaminen katsotaan eduksi. Työskentelet sujuvasti suomeksi ja englanniksi, ja muu kielitaito on eduksi. Olet asiakaspalveluhenkinen, järjestelmällinen ja oma-aloitteinen sekä pidät langat käsissäsi myös muuttuvissa tilanteissa ja haluat kehittää toimintatapoja yhdessä muiden kanssa."
+          },
+          {
+            "text": "Tarjoamme sinulle monipuolisen ja vastuullisen tehtävän kansainvälisessä toimintaympäristössä sekä mahdollisuuden kehittää osaamistasi ja Keslan vientilogistiikan toimintatapoja. Kokemuksen karttuessa ja osaamisen kehittyessä tehtävään voi sisältyä myös laajempia myynnin ja logistiikan kehitys- ja tukitehtäviä."
+          },
+          {
+            "text": "Kesla Oyj on savuton työpaikka."
+          }
+        ],
+        "contact": "Lisätietoja tehtävästä antaa CEO & vt. myynti- ja jälkimarkkinointijohtaja <b>{name}</b>, puh. <tel>{phone}</tel> / <mail>{email}</mail>.",
+        "howToApply": "Hae tehtävää 27.10.2026 klo 23:59 mennessä lähettämällä hakemuksesi palkkatoiveineen sähköpostitse <mail>{address}</mail>."
+      }
+    },
+    "openTitle": "Avoin hakemus",
+    "openText": "Laita hakemus uudeksi keslalaiseksi.",
+    "openCta": "Avoin hakemus"
+  },
+  "functions": {
+    "title": "Toiminnot",
+    "intro": "Meillä Keslalla on useita eri toimintoja, joissa työskentelee monenlaisia asiantuntijoita. Tutustu toimintoihin ja niihin liittyviin työnkuviin.",
+    "videos": "{count, plural, one {# roolivideo} other {# roolivideota}}",
+    "items": {
+      "production": {
+        "name": "Tuotantotyö",
+        "text": "Tuotannossa työskentelee monenlaisia osaajia: hitsaajia, koneistajia, kokoonpanijoita, pintakäsittelijöitä, työnjohtajia, logistiikkatyöntekijöitä, ostajia sekä tuotannon suunnitteluun osallistuvia henkilöitä."
+      },
+      "rnd": {
+        "name": "Tuotekehitys",
+        "text": "Tuotteidemme suunnittelusta ja siihen liittyvästä tuotannon ohjeistuksesta vastaa tuotesuunnittelu. Sieltä löytyy asiantuntijoita esimerkiksi mekaanisen suunnittelun, sähkötekniikan, ohjelmoinnin, hydrauliikan tai dokumentoinnin osa-alueilta. Osa suunnittelijoista työskentelee tietyn tuoteryhmän parissa, osa useamman tuoteryhmän."
+      },
+      "aftersales": {
+        "name": "Huolto ja varaosat",
+        "text": "Huolto ja varaosat huolehtii tuotteidemme toimintakyvystä myynnin jälkeen. Jälkimarkkinoinnissa työskentelee monenlaisia osaajia: varastomiehiä, varaosakoordinaattoreita, ostajia, huoltoasentajia ja huoltopäälliköitä."
+      },
+      "sales": {
+        "name": "Myynti ja markkinointi",
+        "text": "Tuotteidemme myyntiä hoitavat markkina-alue- ja tuoteryhmäkohtaiset myyntipäälliköt, joiden tukena on usein teknisiä tukihenkilöitä, eri liiketoimintojen tuotteista vastaavia tuotepäälliköitä sekä viennin huolintaa ja laskutusta hoitavia vientiassistentteja. Markkinointi puolestaan huolehtii tuoteviestinnästä eri markkina-alueilla ja eri kanavissa."
+      },
+      "support": {
+        "name": "Tukitoiminnot",
+        "text": "Toimiakseen yrityksemme tarvitsee myös useita tukitoimintoja."
+      }
+    }
+  },
+  "values": {
+    "title": "Keslan arvot",
+    "intro": "Keslan arvot ovat vastuullisuus, ripeys, innovatiivisuus ja luotettava tuloksentekijä.",
+    "items": {
+      "responsibility": {
+        "name": "Vastuullisuus",
+        "text": "Vastuullisuus syntyy pienistä, arkipäiväisistä asioista. Esimerkiksi hyvästä työnjäljestä, positiivisesta ja ratkaisukeskeisestä asenteesta tai yhteen hiileen puhaltamisesta."
+      },
+      "innovativeness": {
+        "name": "Innovatiivisuus",
+        "text": "Me Keslalla näemme innovaationa uuden idean, joka on viety käytäntöön ja tuottaa hyötyä. Innovaatiot ovat suurimmaksi osaksi arkisia ratkaisuja. Kun kaikki ovat mukana innovoimassa, syntyy tuloksia."
+      },
+      "promptness": {
+        "name": "Ripeys",
+        "text": "Keslalla ripeydellä tarkoitetaan paitsi ripeyttä itsessään, myös ympäristön seuraamista ja muutosten huomioimista päivittäisessä työssä varmistaen tehtävien loppuun saattamisen."
+      },
+      "reliability": {
+        "name": "Luotettava tuloksentekijä",
+        "text": "Luotettavuus on meille Keslalla tärkeää, koska se luo perustaa jatkuvuudelle. Luotettavuus puolestaan syntyy yhdessä sovittujen tavoitteiden saavuttamisesta."
+      }
+    }
+  },
+  "sites": {
+    "title": "Toimipaikat",
+    "intro": "Noin 200 työntekijää kolmessa tehtaassa Suomessa ja myyntiyhtiössä Saksassa.",
+    "address": "Osoite",
+    "roles": {
+      "joensuu": "Päätoimipaikka ja tehdas",
+      "kesalahti": "Tehdas",
+      "ilomantsi": "Tehdas",
+      "appenweier": "Kesla GmbH, myyntiyhtiö Saksassa"
+    }
+  }
+}

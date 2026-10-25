@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "Yhteystiedot",
+    "description": "Keslan varaosamyynti, huolto ja takuu, hakkurien varaosat, yhteystiedot Suomen ulkopuolelle, huoltopisteet Suomessa, Keslan toimipaikat sekä yhteydenottopyyntö."
+  },
+  "breadcrumb": {
+    "label": "Murupolku",
+    "home": "Etusivu",
+    "current": "Yhteystiedot"
+  },
+  "title": "Yhteystiedot",
+  "imageAlt": "Asentaja kiristää KESLA proG20 -kahmarin pulttia kiintoavaimella.",
+  "actions": {
+    "call": "Soita",
+    "write": "Kirjoita",
+    "open": "Avaa",
+    "callLabel": "Soita {number}",
+    "writeLabel": "Kirjoita osoitteeseen {address}",
+    "openLabel": "Avaa {host}"
+  },
+  "parts": {
+    "label": "Varaosamyynti",
+    "call": "Soita varaosiin",
+    "write": "Kirjoita",
+    "writeLabel": "Kirjoita varaosamyyntiin osoitteeseen {address}",
+    "open": "Avoinna",
+    "hours": "Ma–pe klo 7–16",
+    "email": "Sähköposti",
+    "fax": "Faksi",
+    "address": "Osoite"
+  },
+  "doors": {
+    "service": {
+      "title": "Huolto ja takuu",
+      "who": "Huolto ja takuu",
+      "find": "Etsi lähin huoltopiste"
+    },
+    "chipper": {
+      "title": "Hakkurien varaosat",
+      "body": "Kesla myi hakkuriliiketoimintansa UAB Ukmergės Staklės -yhtiölle (USTA) joulukuussa 2025. USTA jatkaa varaosien myyntiä ja teknistä tukea.",
+      "who": "{name}, myynti-insinööri, USTA"
+    },
+    "abroad": {
+      "title": "Suomen ulkopuolella",
+      "body": "Jos lähelläsi ei ole jälleenmyyjää, ota yhteyttä tehtaan myyntiin.",
+      "sales": "Myynti ja markkinointi, Joensuu",
+      "gmbh": "Kesla GmbH, Appenweier, Saksa",
+      "dealer": "Löydä jälleenmyyjä"
+    }
+  },
+  "points": {
+    "title": "Huoltopisteet Suomessa",
+    "intro": "Hae omaa paikkakuntaasi tai valitse alue.",
+    "search": "Paikkakunta, maakunta tai yritys",
+    "placeholder": "Oulu, Joensuu, Salo",
+    "clear": "Tyhjennä haku",
+    "areas": "Alue",
+    "all": "Kaikki",
+    "short": {
+      "south": "Etelä",
+      "west": "Länsi- ja Keski-Suomi",
+      "east": "Itä",
+      "north": "Pohjoinen"
+    },
+    "count": "<b>{shown} / {total}</b> huoltopistettä",
+    "caption": "Keslan huoltopisteet Suomessa alueittain",
+    "town": "Paikkakunta",
+    "workshop": "Korjaamo",
+    "phone": "Puhelin",
+    "email": "Sähköposti",
+    "website": "Verkkosivu",
+    "none": "Ei ilmoitettu",
+    "empty": "Hakua vastaavaa huoltopistettä ei löytynyt.",
+    "emptyClear": "Näytä kaikki huoltopisteet"
+  },
+  "other": {
+    "title": "Muut yhteystiedot",
+    "general": {
+      "title": "Vaihde",
+      "who": "Kesla Oyj, Joensuu",
+      "fee": "Puhelinmaksu 0207-alkuisiin yritysnumeroihin Suomen sisällä: 8,35 snt/puhelu ja lisäksi 16,69 snt/min."
+    },
+    "sales": {
+      "title": "Myynti ja markkinointi",
+      "who": "Myynti ja markkinointi, Joensuu"
+    },
+    "invoicing": {
+      "title": "Laskutus",
+      "einvoice": "Verkkolaskuosoite",
+      "operatorId": "Välitystunnus",
+      "or": "tai",
+      "operator": "Operaattori",
+      "vat": "ALV-tunnus",
+      "who": "Ostoreskontra",
+      "note": "Kesla ottaa vastaan laskuja sähköisessä muodossa. Laskussa tulee olla ostajan tilausnumero, ostajan nimi tai projektinumero."
+    },
+    "sites": {
+      "title": "Tehtaat ja toimistot",
+      "joensuu": "Joensuu, päätoimipiste",
+      "kesalahti": "Kesälahden tehdas",
+      "ilomantsi": "Ilomantsin tehdas",
+      "gmbh": "Kesla GmbH, Saksa",
+      "gmbhPostal": "77767 Appenweier (postiosoite)",
+      "finland": "",
+      "germany": "Saksa",
+      "map": "Avaa Google Mapsissa"
+    }
+  },
+  "form": {
+    "title": "Yhteydenottopyyntö",
+    "intro": "Kiinnostavatko tuotteemme, tai haluatko myydä tai huoltaa niitä? Täytä lomake, niin Kesla tai jälleenmyyjä ottaa sinuun yhteyttä.",
+    "required": "Tähdellä <star>*</star> merkityt kentät ovat pakollisia.",
+    "name": "Nimi",
+    "company": "Yritys",
+    "email": "Sähköpostiosoite",
+    "phone": "Puhelinnumero (maatunnuksella)",
+    "street": "Katuosoite",
+    "postcode": "Postinumero",
+    "town": "Postitoimipaikka",
+    "country": "Maa",
+    "products": "Kiinnostavat tuoteryhmät",
+    "productList": ["Puutavaranosturit", "City-nosturit", "Harvesterikourat", "Metsäkonenosturit", "Hakkurit", "Traktorivarusteet", "Kahmarit"],
+    "message": "Lisätietoja",
+    "send": "Lähetä",
+    "errors": {
+      "summary": "Korjaa yllä merkityt kentät ja lähetä lomake uudelleen.",
+      "required": "Täytä tämä kenttä.",
+      "email": "Tarkista sähköpostiosoite.",
+      "products": "Valitse vähintään yksi tuoteryhmä."
+    },
+    "concept": "Tämä on konseptisivusto, joten mitään ei lähetetty. Voit kirjoittaa Keslalle suoraan osoitteeseen <mail>sales@kesla.com</mail> tai soittaa numeroon <tel>0207 862 841</tel>."
+  }
+}
